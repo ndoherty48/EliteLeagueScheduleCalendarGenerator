@@ -33,3 +33,17 @@ dotnet build
 src/EliteLeagueScheduleIcsGenerator/bin/Debug/net9.0/playwright.ps1 install
 ```
 
+# Subscribing to a team's calendar
+
+This can be done, by either using the raw github user content link for the ics file on GITHUB
+or using the `gh-calendars.nathandoherty.dev/{TeamName}.ics`
+
+eg:
+
+`https://gh-calendars.nathandoherty.dev/BelfastGiants.ics`
+
+or
+
+`https://raw.githubusercontent.com/ndoherty48/EliteLeagueScheduleCalendarGenerator/refs/heads/main/Output/BelfastGiants.ics`
+
+the latter is what is used under the hood of the first link

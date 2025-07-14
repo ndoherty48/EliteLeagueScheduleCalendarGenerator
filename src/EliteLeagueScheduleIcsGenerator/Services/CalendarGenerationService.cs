@@ -18,7 +18,7 @@ public class CalendarGenerationService(Calendar calendar) : ICalendarGenerationS
     {
         calendar.Name = teamName ?? "Elite League";
         calendar.Version = DateTime.Now.ToString("yy.MM.dd");
-        foreach (var fixture in fixtures)
+        foreach (var fixture in fixtures.OrderBy(x=>x.StartTime))
         {
             var competition = fixture.CompetitionName.Contains("League", StringComparison.OrdinalIgnoreCase)
                 ? "League"
@@ -32,8 +32,8 @@ public class CalendarGenerationService(Calendar calendar) : ICalendarGenerationS
                     : teamName.Equals(fixture.HomeTeam)
                         ? $"vs {fixture.AwayTeam}"
                         : $"@ {fixture.HomeTeam}",
-                Start = new CalDateTime(fixture.StartTime, "uk/london"),
-                End = new CalDateTime(fixture.EndTime, "uk/london"),
+                Start = new CalDateTime(fixture.StartTime, "Europe/London"),
+                End = new CalDateTime(fixture.EndTime, "Europe/London"),
                 GeographicLocation = new GeographicLocation(),
                 Location = fixture.Venue,
                 Description =
