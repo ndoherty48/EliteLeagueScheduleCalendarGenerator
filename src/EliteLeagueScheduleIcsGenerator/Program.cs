@@ -27,11 +27,11 @@ var app = builder.Build();
 var pathToGeneratedCalendars = $"{AppContext.BaseDirectory.Split("src").First()}output";
 
 var logger = app.Services.GetRequiredService<ILogger<Program>>();
-var fixtureScraper = app.Services.GetRequiredService<IFixtureScraper>();
-var icsGenerator = app.Services.GetRequiredService<ICalendarGenerationService>();
 
 foreach (var teamName in builder.Configuration.GetSection("Teams").Get<IList<string>>() ?? [])
 {
+    var fixtureScraper = app.Services.GetRequiredService<IFixtureScraper>();
+    var icsGenerator = app.Services.GetRequiredService<ICalendarGenerationService>();
     logger.LogInformation("Fetching League Fixtures for: {teamName}", teamName);
     var leagueFixtures = await fixtureScraper
         .GetFixturesAsync(builder.Configuration.GetValue<string>("Competitions:League")!, teamName);
@@ -39,7 +39,7 @@ foreach (var teamName in builder.Configuration.GetSection("Teams").Get<IList<str
     var cupFixtures = await fixtureScraper
         .GetFixturesAsync(builder.Configuration.GetValue<string>("Competitions:Cup")!, teamName);
 
-    logger.LogInformation("Generating the update calendar for: {teamName}", teamName);
+    logger.LogInformation("Generating the updated calendar for: {teamName}", teamName);
     await icsGenerator.GenerateCalendar([..leagueFixtures, ..cupFixtures],
         $"{pathToGeneratedCalendars}/{teamName.Replace(" ", string.Empty)}.ics", teamName);
 }

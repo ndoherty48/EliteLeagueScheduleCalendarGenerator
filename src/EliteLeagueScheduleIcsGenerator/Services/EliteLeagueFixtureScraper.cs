@@ -69,7 +69,8 @@ public class EliteLeagueFixtureScraper(IBrowser browser) : IFixtureScraper
                 .InnerTextAsync();
 
             var teamsLocator = await fixture
-                .Locator("div a")
+                .Locator("div[class=\"col-12 col-md-6 col-lg-5 d-flex justify-content-center justify-content-md-start align-items-center font-secondary\"]")
+                .Locator("a")
                 .AllAsync();
             var teams = teamsLocator
                 .SelectMany(x=> x.AllInnerTextsAsync().Result)

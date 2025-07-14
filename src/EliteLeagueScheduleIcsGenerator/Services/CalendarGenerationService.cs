@@ -16,6 +16,8 @@ public class CalendarGenerationService(Calendar calendar) : ICalendarGenerationS
     public async Task GenerateCalendar(IReadOnlyCollection<Fixture> fixtures, string outputFile,
         string? teamName = null)
     {
+        calendar.Name = teamName ?? "Elite League";
+        calendar.Version = DateTime.Now.ToString("yy.MM.dd");
         foreach (var fixture in fixtures)
         {
             var competition = fixture.CompetitionName.Contains("League", StringComparison.OrdinalIgnoreCase)
