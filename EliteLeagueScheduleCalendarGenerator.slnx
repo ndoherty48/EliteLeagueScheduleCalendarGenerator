@@ -1,0 +1,25 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/output/">
+    <File Path="Output\BelfastGiants.ics" />
+    <File Path="Output\CardiffDevils.ics" />
+    <File Path="Output\CoventryBlaze.ics" />
+    <File Path="Output\DundeeStars.ics" />
+    <File Path="Output\FifeFlyers.ics" />
+    <File Path="Output\GlasgowClan.ics" />
+    <File Path="Output\GuildfordFlames.ics" />
+    <File Path="Output\ManchesterStorm.ics" />
+    <File Path="Output\NottinghamPanthers.ics" />
+    <File Path="Output\SheffieldSteelers.ics" />
+  </Folder>
+  <Folder Name="/Solution Folder/">
+    <File Path="ReadMe.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/EliteLeagueScheduleIcsGenerator/EliteLeagueScheduleIcsGenerator.csproj" />
+  </Folder>
+</Solution>
