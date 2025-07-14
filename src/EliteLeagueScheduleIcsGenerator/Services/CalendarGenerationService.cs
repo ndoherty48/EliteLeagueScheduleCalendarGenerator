@@ -18,6 +18,7 @@ public class CalendarGenerationService(Calendar calendar) : ICalendarGenerationS
     {
         calendar.Name = teamName ?? "Elite League";
         calendar.Version = DateTime.Now.ToString("yy.MM.dd");
+        calendar.AddTimeZone("Europe/London");
         foreach (var fixture in fixtures.OrderBy(x=>x.StartTime))
         {
             var competition = fixture.CompetitionName.Contains("League", StringComparison.OrdinalIgnoreCase)
