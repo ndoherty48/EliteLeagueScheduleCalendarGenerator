@@ -30,6 +30,7 @@ public class EliteLeagueFixtureScraper(IBrowser browser) : IFixtureScraper
             var correspondingFixtureDiv = fixtures.ElementAt(index);
             competitionFixtures.Add(new Fixture
             {
+                GameNumber = correspondingFixtureDiv.GameNumber,
                 AwayTeam = correspondingFixtureDiv.AwayTeam,
                 HomeTeam = correspondingFixtureDiv.HomeTeam,
                 CompetitionName = competitionName,

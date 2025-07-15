@@ -2,6 +2,7 @@
 
 public sealed record Fixture
 {
+    public required string GameNumber { get; init; }
     public required string HomeTeam { get; init; }
     public required string AwayTeam { get; init; }
     public required string Venue { get; init; }

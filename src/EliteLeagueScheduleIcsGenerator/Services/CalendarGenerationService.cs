@@ -16,8 +16,6 @@ public class CalendarGenerationService(Calendar calendar) : ICalendarGenerationS
     public async Task GenerateCalendar(IReadOnlyCollection<Fixture> fixtures, string outputFile,
         string? teamName = null)
     {
-        calendar.Name = teamName ?? "Elite League";
-        calendar.Version = DateTime.Now.ToString("yy.MM.dd");
         calendar.AddTimeZone("Europe/London");
         foreach (var fixture in fixtures.OrderBy(x=>x.StartTime))
         {
@@ -27,6 +25,7 @@ public class CalendarGenerationService(Calendar calendar) : ICalendarGenerationS
             
             calendar.Events.Add(new CalendarEvent
             {
+                Uid = fixture.GameNumber,
                 Categories = [fixture.CompetitionName, competition],
                 Summary = string.IsNullOrWhiteSpace(teamName)
                     ? $"{fixture.HomeTeam} vs {fixture.AwayTeam}"
