@@ -4,11 +4,6 @@ using Microsoft.Playwright;
 
 namespace EliteLeagueScheduleIcsGenerator.Services;
 
-public interface IFixtureScraper
-{
-    Task<IReadOnlyCollection<Fixture>> GetFixturesAsync(string competitionName, string? tenant = null);
-}
-
 public class EliteLeagueFixtureScraper(IBrowser browser) : IFixtureScraper
 {
     public async Task<IReadOnlyCollection<Fixture>> GetFixturesAsync(string competitionName, string? tenant = null)
@@ -34,7 +29,7 @@ public class EliteLeagueFixtureScraper(IBrowser browser) : IFixtureScraper
                 AwayTeam = correspondingFixtureDiv.AwayTeam,
                 HomeTeam = correspondingFixtureDiv.HomeTeam,
                 CompetitionName = competitionName,
-                StartTime = DateTime.Parse($"{gameDate}").Add(correspondingFixtureDiv.Start.ToTimeSpan()),
+                StartTime = new DateTime(DateOnly.Parse(gameDate), correspondingFixtureDiv.Start),
                 Venue = correspondingFixtureDiv.Arena
             });
         }
@@ -86,6 +81,8 @@ public class EliteLeagueFixtureScraper(IBrowser browser) : IFixtureScraper
                 Start = TimeOnly.Parse($"{startTime}:00")
             });
         }
+
+        await page.CloseAsync();
 
         return parsedFixtures;
     }

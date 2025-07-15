@@ -19,9 +19,11 @@ public class CalendarGenerationService(Calendar calendar) : ICalendarGenerationS
         calendar.AddTimeZone("Europe/London");
         foreach (var fixture in fixtures.OrderBy(x=>x.StartTime))
         {
-            var competition = fixture.CompetitionName.Contains("League", StringComparison.OrdinalIgnoreCase)
-                ? "League"
-                : "Cup";
+            var competition = fixture.CompetitionName;
+            if (fixture.CompetitionName.Contains("League", StringComparison.OrdinalIgnoreCase))
+                competition = "League";
+            else if (fixture.CompetitionName.Contains("Cup", StringComparison.OrdinalIgnoreCase))
+                competition = "Cup";
             
             calendar.Events.Add(new CalendarEvent
             {
