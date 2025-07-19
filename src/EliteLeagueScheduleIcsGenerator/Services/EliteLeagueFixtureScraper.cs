@@ -1,4 +1,5 @@
-﻿using EliteLeagueScheduleIcsGenerator.Dto;
+﻿using System.Globalization;
+using EliteLeagueScheduleIcsGenerator.Dto;
 using EliteLeagueScheduleIcsGenerator.Extensions;
 using Microsoft.Playwright;
 
@@ -29,7 +30,7 @@ public class EliteLeagueFixtureScraper(IBrowser browser) : IFixtureScraper
                 AwayTeam = correspondingFixtureDiv.AwayTeam,
                 HomeTeam = correspondingFixtureDiv.HomeTeam,
                 CompetitionName = competitionName,
-                StartTime = new DateTime(DateOnly.Parse(gameDate), correspondingFixtureDiv.Start),
+                StartTime = DateTime.ParseExact($"{gameDate} {correspondingFixtureDiv.Start.ToString()}", "dd/MM/yyyy HH:mm", null),
                 Venue = correspondingFixtureDiv.Arena
             });
         }
