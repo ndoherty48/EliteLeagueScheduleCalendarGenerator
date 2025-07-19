@@ -30,7 +30,7 @@ public class EliteLeagueFixtureScraper(IBrowser browser) : IFixtureScraper
                 AwayTeam = correspondingFixtureDiv.AwayTeam,
                 HomeTeam = correspondingFixtureDiv.HomeTeam,
                 CompetitionName = competitionName,
-                StartTime = new DateTime(DateOnly.Parse(gameDate, new CultureInfo("en-GB")), correspondingFixtureDiv.Start),
+                StartTime = new DateTime(DateOnly.Parse(gameDate), correspondingFixtureDiv.Start, DateTimeKind.Local),
                 Venue = correspondingFixtureDiv.Arena
             });
         }
