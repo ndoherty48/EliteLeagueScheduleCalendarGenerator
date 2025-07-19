@@ -1,5 +1,4 @@
-﻿using System.Globalization;
-using EliteLeagueScheduleIcsGenerator.Dto;
+﻿using EliteLeagueScheduleIcsGenerator.Dto;
 using EliteLeagueScheduleIcsGenerator.Extensions;
 using Microsoft.Playwright;
 
@@ -9,13 +8,16 @@ public class EliteLeagueFixtureScraper(IBrowser browser) : IFixtureScraper
 {
     public async Task<IReadOnlyCollection<Fixture>> GetFixturesAsync(string competitionName, string? tenant = null)
     {
-        var page = await browser.NewPageAsync();
-        await page.GotoAsync("https://www.eliteleague.co.uk/schedule", new PageGotoOptions(){Timeout = 0, WaitUntil = WaitUntilState.NetworkIdle});
+        var context = await browser.NewContextAsync(new BrowserNewContextOptions
+            { Locale = "en-GB", TimezoneId = "Europe/London" });
+        var page = await context.NewPageAsync();
+        await page.GotoAsync("https://www.eliteleague.co.uk/schedule",
+            new PageGotoOptions() { Timeout = 0, WaitUntil = WaitUntilState.NetworkIdle });
         await page.GetByLabel("Season year").SelectOptionAsync(competitionName);
         if (tenant != null) await page.GetByLabel("Season teams").SelectOptionAsync(tenant);
         await page.GetByLabel("Season months").SelectOptionAsync("all months");
         await page.WaitForLoadStateAsync(LoadState.NetworkIdle);
-        
+
         var gameDates = await GetGameDatesAsync(page);
         var fixtures = await GetParsedFixtures(page);
 
@@ -34,7 +36,7 @@ public class EliteLeagueFixtureScraper(IBrowser browser) : IFixtureScraper
                 Venue = correspondingFixtureDiv.Arena
             });
         }
-        
+
         return competitionFixtures;
     }
 
@@ -45,7 +47,7 @@ public class EliteLeagueFixtureScraper(IBrowser browser) : IFixtureScraper
             .AllAsync();
         return gameDateLocators
             .SelectMany(x => x.AllTextContentsAsync().Result)
-            .Select(x=>x.Split(" ").Last().Replace(".", "/"))
+            .Select(x => x.Split(" ").Last().Replace(".", "/"))
             .ToList();
     }
 
@@ -55,7 +57,7 @@ public class EliteLeagueFixtureScraper(IBrowser browser) : IFixtureScraper
         var fixtureLocators = await page
             .Locator("div[class=\"row align-items-center pt-3 pb-3 border-bottom border-bcolor\"]")
             .AllAsync();
-        
+
         foreach (var fixture in fixtureLocators)
         {
             var startTime = await fixture
@@ -66,12 +68,13 @@ public class EliteLeagueFixtureScraper(IBrowser browser) : IFixtureScraper
                 .InnerTextAsync();
 
             var teamsLocator = await fixture
-                .Locator("div[class=\"col-12 col-md-6 col-lg-5 d-flex justify-content-center justify-content-md-start align-items-center font-secondary\"]")
+                .Locator(
+                    "div[class=\"col-12 col-md-6 col-lg-5 d-flex justify-content-center justify-content-md-start align-items-center font-secondary\"]")
                 .Locator("a")
                 .AllAsync();
             var teams = teamsLocator
-                .SelectMany(x=> x.AllInnerTextsAsync().Result)
-                .Select(x=>x.TrimStart().TrimEnd())
+                .SelectMany(x => x.AllInnerTextsAsync().Result)
+                .Select(x => x.TrimStart().TrimEnd())
                 .ToList();
 
             parsedFixtures.Add(new GameCentreFixtureRow

@@ -33,7 +33,7 @@ jobs:
           add: Output
           message: "Update EIHL ICS with latest fixtures"
           new_branch: updates/LatestFixturesIcs
-      - name: create pull request
-        run: gh pr create -B main -H updates/LatestFixturesIcs --title 'Update ICS Test' --body 'Created by Github action'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # - name: create pull request
+      #   run: gh pr create -B main -H updates/LatestFixturesIcs --title 'Update ICS Test' --body 'Created by Github action'
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

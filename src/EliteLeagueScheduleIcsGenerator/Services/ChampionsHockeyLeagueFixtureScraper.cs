@@ -8,7 +8,9 @@ public class ChampionsHockeyLeagueFixtureScraper(IBrowser browser) : IFixtureScr
     public async Task<IReadOnlyCollection<Fixture>> GetFixturesAsync(string competitionName, string? tenant = null)
     {
         ArgumentNullException.ThrowIfNull(tenant);
-        var page = await browser.NewPageAsync();
+        var context = await browser.NewContextAsync(new BrowserNewContextOptions
+            { Locale = "en-GB", TimezoneId = "Europe/London" });
+        var page = await context.NewPageAsync();
         await page.GotoAsync("https://www.chl.hockey/en/schedule#select_schedule=0", new PageGotoOptions{Timeout = 0, WaitUntil = WaitUntilState.NetworkIdle});
         await page.GetByText("By team").ClickAsync();
         await page.WaitForLoadStateAsync(LoadState.NetworkIdle);
