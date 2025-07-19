@@ -8,6 +8,9 @@ jobs:
   calendar-generation:
     runs-on: Windows-Latest
     steps:
+      - name: Set GB Culture
+        shell: pwsh
+        run: Set-Culture en-GB
       - uses: actions/checkout@v4
       - name: Setup dotnet
         uses: actions/setup-dotnet@v4
@@ -19,7 +22,7 @@ jobs:
         run: dotnet build --no-restore
       - name: Install Playwright
         working-directory: src/EliteLeagueScheduleIcsGenerator
-        run: bin/Debug/net9.0/playwright.ps1 install
+        run: bin/Debug/net9.0/playwright.ps1 install --with-deps
       - name: Run Calendar Generation
         working-directory: src/EliteLeagueScheduleIcsGenerator
         run: dotnet run
@@ -30,7 +33,7 @@ jobs:
           add: Output
           message: "Update EIHL ICS with latest fixtures"
           new_branch: updates/LatestFixturesIcs
-      - name: create pull request
-        run: gh pr create -B main -H updates/LatestFixturesIcs --title 'Update ICS Test' --body 'Created by Github action'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # - name: create pull request
+      #   run: gh pr create -B main -H updates/LatestFixturesIcs --title 'Update ICS Test' --body 'Created by Github action'
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
