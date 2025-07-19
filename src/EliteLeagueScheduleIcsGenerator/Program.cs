@@ -30,7 +30,7 @@ builder.Services
 var app = builder.Build();
 
 
-var pathToGeneratedCalendars = $"{AppContext.BaseDirectory.Split("src").First()}output";
+var pathToGeneratedCalendars = $"{AppContext.BaseDirectory.Split("src").First()}Output";
 
 var logger = app.Services.GetRequiredService<ILogger<Program>>();
 
