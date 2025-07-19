@@ -22,7 +22,7 @@ jobs:
         run: bin/Debug/net9.0/playwright.ps1 install
       - name: Run Calendar Generation
         working-directory: src/EliteLeagueScheduleIcsGenerator
-        run: dotnet run
+        run: TZ=Europe/London dotnet run
       - uses: EndBug/add-and-commit@v9
         with:
           add: Output
