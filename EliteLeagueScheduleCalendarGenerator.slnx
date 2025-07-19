@@ -4,6 +4,9 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Folder Name="/github-workflows/">
+    <File Path=".github\workflows\update-ics-calendars.yml" />
+  </Folder>
   <Folder Name="/output/">
     <File Path="Output\BelfastGiants.ics" />
     <File Path="Output\CardiffDevils.ics" />

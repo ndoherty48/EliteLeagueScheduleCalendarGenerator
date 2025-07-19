@@ -1,0 +1,30 @@
+name: "Update EIHL Calendar's with latest fixtures"
+on:
+  workflow_dispatch:
+    
+  schedule:
+    - cron: 45 23 * * 0
+jobs:
+  calendar-generation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup dotnet
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '9.x'
+          cache: true
+      - name: Restore
+        run: dotnet restore
+      - name: Install Playwright
+        working-directory: src/EliteLeagueScheduleIcsGenerator
+        run: bin/Debug/net9.0/playwright.ps1 install
+      - name: Build
+        run: dotnet build --no-restore
+      - name: Run Calendar Generation
+        working-directory: src/EliteLeagueScheduleIcsGenerator
+        run: dotnet run
+      - uses: EndBug/add-and-commit@v9
+        with:
+          add: Output
+          message: "Update EIHL ICS with latest fixtures"
