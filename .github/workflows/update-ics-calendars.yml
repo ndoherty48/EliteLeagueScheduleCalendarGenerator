@@ -1,4 +1,4 @@
-name: "Update EIHL Calendar's with latest fixtures"
+name: "Generate EIHL Calendar's"
 on:
   workflow_dispatch:
     
