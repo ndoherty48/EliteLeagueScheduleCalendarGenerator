@@ -6,7 +6,7 @@ on:
     - cron: 45 23 * * 0
 jobs:
   calendar-generation:
-    runs-on: ubuntu-latest
+    runs-on: Windows-Latest
     steps:
       - uses: actions/checkout@v4
       - name: Setup dotnet
@@ -27,3 +27,8 @@ jobs:
         with:
           add: Output
           message: "Update EIHL ICS with latest fixtures"
+          new_branch: updates/LatestFixturesIcs
+      - name: create pull request
+        run: gh pr create -B main -H updates/LatestFixturesIcs --title 'Update ICS Test' --body 'Created by Github action'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
