@@ -11,7 +11,11 @@ var builder = Host.CreateApplicationBuilder(args);
 builder.Configuration.AddJsonFile("appsettings.json", true, true);
 
 var playwright = await Playwright.CreateAsync();
-var browser = await playwright.Chromium.LaunchAsync(new BrowserTypeLaunchOptions{Headless = false, SlowMo = 10});
+var browser = await playwright.Chromium.LaunchAsync(new BrowserTypeLaunchOptions
+{
+    Headless = builder.Configuration.GetValue<bool>("BrowserTypeLaunchOptions:Headless"), 
+    SlowMo = builder.Configuration.GetValue<float>("BrowserTypeLaunchOptions:SlowMo")
+});
 
 builder.Services
     .AddSingleton<IPlaywright>(_ => playwright)
