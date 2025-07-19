@@ -1,18 +1,17 @@
-﻿using EliteLeagueScheduleIcsGenerator.Dto;
+﻿using System.Globalization;
+using EliteLeagueScheduleIcsGenerator.Dto;
 using EliteLeagueScheduleIcsGenerator.Extensions;
 using Microsoft.Playwright;
 
 namespace EliteLeagueScheduleIcsGenerator.Services;
 
-public class EliteLeagueFixtureScraper(IBrowser browser) : IFixtureScraper
+public class EliteLeagueFixtureScraper(IBrowserContext browserContext) : IFixtureScraper
 {
     public async Task<IReadOnlyCollection<Fixture>> GetFixturesAsync(string competitionName, string? tenant = null)
     {
-        var context = await browser.NewContextAsync(new BrowserNewContextOptions
-            { Locale = "en-GB", TimezoneId = "Europe/London" });
-        var page = await context.NewPageAsync();
+        var page = await browserContext.NewPageAsync();
         await page.GotoAsync("https://www.eliteleague.co.uk/schedule",
-            new PageGotoOptions() { Timeout = 0, WaitUntil = WaitUntilState.NetworkIdle });
+            new PageGotoOptions { Timeout = 0, WaitUntil = WaitUntilState.NetworkIdle });
         await page.GetByLabel("Season year").SelectOptionAsync(competitionName);
         if (tenant != null) await page.GetByLabel("Season teams").SelectOptionAsync(tenant);
         await page.GetByLabel("Season months").SelectOptionAsync("all months");
@@ -82,7 +81,7 @@ public class EliteLeagueFixtureScraper(IBrowser browser) : IFixtureScraper
                 HomeTeam = teams.First(),
                 AwayTeam = teams.Last(),
                 GameNumber = gameNumber,
-                Start = TimeOnly.Parse($"{startTime}:00")
+                Start = TimeOnly.Parse($"{startTime}:00", CultureInfo.CurrentCulture)
             });
         }
 

@@ -1,16 +1,15 @@
-﻿using EliteLeagueScheduleIcsGenerator.Dto;
+﻿using System.Globalization;
+using EliteLeagueScheduleIcsGenerator.Dto;
 using Microsoft.Playwright;
 
 namespace EliteLeagueScheduleIcsGenerator.Services;
 
-public class ChampionsHockeyLeagueFixtureScraper(IBrowser browser) : IFixtureScraper
+public class ChampionsHockeyLeagueFixtureScraper(IBrowserContext browserContext) : IFixtureScraper
 {
     public async Task<IReadOnlyCollection<Fixture>> GetFixturesAsync(string competitionName, string? tenant = null)
     {
         ArgumentNullException.ThrowIfNull(tenant);
-        var context = await browser.NewContextAsync(new BrowserNewContextOptions
-            { Locale = "en-GB", TimezoneId = "Europe/London" });
-        var page = await context.NewPageAsync();
+        var page = await browserContext.NewPageAsync();
         await page.GotoAsync("https://www.chl.hockey/en/schedule#select_schedule=0", new PageGotoOptions{Timeout = 0, WaitUntil = WaitUntilState.NetworkIdle});
         await page.GetByText("By team").ClickAsync();
         await page.WaitForLoadStateAsync(LoadState.NetworkIdle);
@@ -47,7 +46,7 @@ public class ChampionsHockeyLeagueFixtureScraper(IBrowser browser) : IFixtureScr
                 AwayTeam = awayTeam,
                 CompetitionName = competitionName,
                 Venue = arena,
-                StartTime = DateTime.Parse($"{date} {month} {DateTime.Now.Year} {time}")
+                StartTime = DateTime.Parse($"{date} {month} {DateTime.Now.Year} {time}", CultureInfo.CurrentCulture)
             });
         }
 
