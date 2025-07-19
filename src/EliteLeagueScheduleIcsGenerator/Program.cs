@@ -20,9 +20,9 @@ var playwright = await Playwright.CreateAsync();
 var browser = await playwright.Chromium.LaunchAsync(new BrowserTypeLaunchOptions
 {
     Headless = builder.Configuration.GetValue<bool>("BrowserTypeLaunchOptions:Headless"), 
-    SlowMo = builder.Configuration.GetValue<float>("BrowserTypeLaunchOptions:SlowMo")
+    SlowMo = builder.Configuration.GetValue<float>("BrowserTypeLaunchOptions:SlowMo"),
 });
-var browserContext = await browser.NewContextAsync(new BrowserNewContextOptions()
+var browserContext = await browser.NewContextAsync(new BrowserNewContextOptions
 {
     Locale = "en-GB",
     TimezoneId = "Europe/London"
@@ -30,8 +30,8 @@ var browserContext = await browser.NewContextAsync(new BrowserNewContextOptions(
 
 builder.Services
     .AddSingleton<IPlaywright>(_ => playwright)
-    .AddSingleton<IBrowser>(_ => browser)
-    .AddSingleton<IBrowserContext>(_ => browserContext)
+    .AddTransient<IBrowser>(_ => browser)
+    .AddTransient<IBrowserContext>(_ => browserContext)
     .AddTransient<Calendar>();
 
 builder.Services
