@@ -23,7 +23,7 @@ jobs:
       - name: Install Playwright
         working-directory: src/EliteLeagueScheduleIcsGenerator
         run: |
-          sudo rm /etc/apt/sources.list.d/microsoft-prod.list
+          rm /etc/apt/sources.list.d/microsoft-prod.list
           ./bin/Debug/net9.0/playwright.ps1 install --with-deps
       - name: Run Calendar Generation
         working-directory: src/EliteLeagueScheduleIcsGenerator
