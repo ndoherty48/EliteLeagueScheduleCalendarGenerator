@@ -22,7 +22,7 @@ jobs:
         run: dotnet build --no-restore
       - name: Install Playwright
         working-directory: src/EliteLeagueScheduleIcsGenerator
-        run: bin/Debug/net9.0/playwright.ps1 install
+        run: bin/Debug/net9.0/playwright.ps1 install --with-deps
       - name: Run Calendar Generation
         working-directory: src/EliteLeagueScheduleIcsGenerator
         run: dotnet run
