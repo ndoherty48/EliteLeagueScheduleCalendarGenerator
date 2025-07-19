@@ -13,9 +13,9 @@ public class EliteLeagueFixtureScraper(IBrowserContext browserContext) : IFixtur
         await page.GotoAsync("https://www.eliteleague.co.uk/schedule",
             new PageGotoOptions { Timeout = 0, WaitUntil = WaitUntilState.NetworkIdle });
         await page.GetByLabel("Season year").SelectOptionAsync(competitionName);
-        await page.WaitForLoadStateAsync(LoadState.NetworkIdle);
+        await page.WaitForLoadStateAsync(LoadState.DOMContentLoaded);
         if (tenant != null) await page.GetByLabel("Season teams").SelectOptionAsync(tenant);
-        await page.WaitForLoadStateAsync(LoadState.NetworkIdle);
+        await page.WaitForLoadStateAsync(LoadState.DOMContentLoaded);
         await page.GetByLabel("Season months").SelectOptionAsync("all months");
         await page.WaitForLoadStateAsync(LoadState.NetworkIdle);
 
