@@ -1,5 +1,6 @@
 ﻿using EliteLeagueScheduleIcsGenerator.Dto;
 using EliteLeagueScheduleIcsGenerator.Services;
+using EliteLeagueScheduleIcsGenerator.Services.FixtureScrapers;
 using Ical.Net;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;

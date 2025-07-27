@@ -2,7 +2,7 @@
 using EliteLeagueScheduleIcsGenerator.Dto;
 using Microsoft.Playwright;
 
-namespace EliteLeagueScheduleIcsGenerator.Services;
+namespace EliteLeagueScheduleIcsGenerator.Services.FixtureScrapers;
 
 public class ChampionsHockeyLeagueFixtureScraper(IBrowserContext browserContext) : IFixtureScraper
 {

@@ -3,7 +3,7 @@ using EliteLeagueScheduleIcsGenerator.Dto;
 using EliteLeagueScheduleIcsGenerator.Extensions;
 using Microsoft.Playwright;
 
-namespace EliteLeagueScheduleIcsGenerator.Services;
+namespace EliteLeagueScheduleIcsGenerator.Services.FixtureScrapers;
 
 public class EliteLeagueFixtureScraper(IBrowserContext browserContext) : IFixtureScraper
 {

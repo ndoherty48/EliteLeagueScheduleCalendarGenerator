@@ -34,6 +34,8 @@ public class CalendarGenerationService(Calendar calendar) : ICalendarGenerationS
                     : teamName.Equals(fixture.HomeTeam)
                         ? $"vs {fixture.AwayTeam}"
                         : $"@ {fixture.HomeTeam}",
+                // setting DtStamp to start time so that it is not updated when no other changes.
+                DtStamp = new CalDateTime(fixture.StartTime, "Europe/London"),
                 Start = new CalDateTime(fixture.StartTime, "Europe/London"),
                 End = new CalDateTime(fixture.EndTime, "Europe/London"),
                 GeographicLocation = new GeographicLocation(),
