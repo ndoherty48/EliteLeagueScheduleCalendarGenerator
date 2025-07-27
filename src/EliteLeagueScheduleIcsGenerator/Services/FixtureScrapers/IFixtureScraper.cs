@@ -1,6 +1,6 @@
 ﻿using EliteLeagueScheduleIcsGenerator.Dto;
 
-namespace EliteLeagueScheduleIcsGenerator.Services;
+namespace EliteLeagueScheduleIcsGenerator.Services.FixtureScrapers;
 
 public interface IFixtureScraper
 {
