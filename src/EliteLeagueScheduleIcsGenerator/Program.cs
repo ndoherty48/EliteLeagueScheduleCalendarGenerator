@@ -17,27 +17,15 @@ builder.Logging.ClearProviders().AddSimpleConsole(x =>
     x.IncludeScopes = true;
 });
 
-var playwright = await Playwright.CreateAsync();
-var browser = await playwright.Chromium.LaunchAsync(new BrowserTypeLaunchOptions
-{
-    Headless = builder.Configuration.GetValue<bool>("BrowserTypeLaunchOptions:Headless"), 
-    SlowMo = builder.Configuration.GetValue<float>("BrowserTypeLaunchOptions:SlowMo"),
-});
-var browserContext = await browser.NewContextAsync(new BrowserNewContextOptions
-{
-    Locale = "en-GB",
-    TimezoneId = "Europe/London",
-    ViewportSize = new ViewportSize
-    {
-        Height = 1920,
-        Width = 3072
-    }
-});
+var browserTypeLaunchOptions = builder.Configuration.GetSection("BrowserTypeLaunchOptions").Get<BrowserTypeLaunchOptions>();
+var browserNewContextOptions = builder.Configuration.GetSection("BrowserNewContextOptions").Get<BrowserNewContextOptions>();
 
 builder.Services
-    .AddSingleton<IPlaywright>(_ => playwright)
-    .AddTransient<IBrowser>(_ => browser)
-    .AddTransient<IBrowserContext>(_ => browserContext)
+    .AddSingleton<IPlaywright>(_ => Playwright.CreateAsync().Result)
+    .AddTransient<IBrowser>(x => x.GetRequiredService<IPlaywright>().Chromium
+        .LaunchAsync(browserTypeLaunchOptions).Result)
+    .AddTransient<IBrowserContext>(x => x.GetRequiredService<IBrowser>()
+        .NewContextAsync(browserNewContextOptions).Result)
     .AddTransient<Calendar>();
 
 builder.Services
