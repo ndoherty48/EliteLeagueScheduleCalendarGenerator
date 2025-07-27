@@ -25,7 +25,12 @@ var browser = await playwright.Chromium.LaunchAsync(new BrowserTypeLaunchOptions
 var browserContext = await browser.NewContextAsync(new BrowserNewContextOptions
 {
     Locale = "en-GB",
-    TimezoneId = "Europe/London"
+    TimezoneId = "Europe/London",
+    ViewportSize = new ViewportSize
+    {
+        Height = 1920,
+        Width = 3072
+    }
 });
 
 builder.Services
