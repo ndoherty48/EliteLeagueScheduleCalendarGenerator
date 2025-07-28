@@ -3,6 +3,7 @@ using Ical.Net;
 using Ical.Net.CalendarComponents;
 using Ical.Net.DataTypes;
 using Ical.Net.Serialization;
+using Microsoft.Extensions.Logging;
 
 namespace EliteLeagueScheduleIcsGenerator.Services;
 
@@ -11,11 +12,12 @@ public interface ICalendarGenerationService
     Task GenerateCalendar(IReadOnlyCollection<Fixture> fixtures, string outputFile, string? teamName = null);
 }
 
-public class CalendarGenerationService(Calendar calendar) : ICalendarGenerationService
+public class CalendarGenerationService(Calendar calendar, ILogger<CalendarGenerationService> logger) : ICalendarGenerationService
 {
     public async Task GenerateCalendar(IReadOnlyCollection<Fixture> fixtures, string outputFile,
         string? teamName = null)
     {
+        int invalidCalendarFixtures = 0;
         calendar.AddTimeZone("Europe/London");
         foreach (var fixture in fixtures.OrderBy(x=>x.StartTime))
         {
@@ -24,6 +26,15 @@ public class CalendarGenerationService(Calendar calendar) : ICalendarGenerationS
                 competition = "League";
             else if (fixture.CompetitionName.Contains("Cup", StringComparison.OrdinalIgnoreCase))
                 competition = "Cup";
+
+            if (
+                fixture.HomeTeam.Equals(teamName, StringComparison.OrdinalIgnoreCase) is false &&
+                fixture.AwayTeam.Equals(teamName, StringComparison.OrdinalIgnoreCase) is false
+            )
+            {
+                logger.LogError("Invalid Fixture detected");
+                invalidCalendarFixtures++;
+            }
             
             calendar.Events.Add(new CalendarEvent
             {
@@ -43,6 +54,13 @@ public class CalendarGenerationService(Calendar calendar) : ICalendarGenerationS
                 Description =
                     $"{competition}: {fixture.HomeTeam} vs {fixture.AwayTeam} @ {fixture.Venue} on {fixture.StartTime:g}",
             });
+        }
+
+        if (invalidCalendarFixtures > 0)
+        {
+            logger.LogError("Found {NumberOfFixtures} invalid fixtures", invalidCalendarFixtures);
+            logger.LogWarning("Skipping updating calendar file due to invalid fixtures");
+            return;
         }
         
         await File.WriteAllTextAsync(outputFile, new CalendarSerializer(calendar).SerializeToString());
