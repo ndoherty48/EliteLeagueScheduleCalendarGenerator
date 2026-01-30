@@ -19,6 +19,10 @@ builder.Logging.ClearProviders().AddSimpleConsole(x =>
 
 var browserTypeLaunchOptions = builder.Configuration.GetSection("BrowserTypeLaunchOptions").Get<BrowserTypeLaunchOptions>();
 var browserNewContextOptions = builder.Configuration.GetSection("BrowserNewContextOptions").Get<BrowserNewContextOptions>();
+var competitionsOptions = builder.Configuration.GetSection("Competitions").Get<Competitions>();
+var europeanCompetitionsOptions = builder.Configuration.GetSection("TeamsWithEuropean").Get<TeamsWithEuropean>();
+ArgumentNullException.ThrowIfNull(competitionsOptions);
+ArgumentNullException.ThrowIfNull(europeanCompetitionsOptions);
 
 builder.Services
     .AddSingleton<IPlaywright>(_ => Playwright.CreateAsync().Result)
@@ -48,14 +52,11 @@ foreach (var (index, teamName) in (builder.Configuration.GetSection("Teams").Get
     var chlFixtureScraper = app.Services.GetRequiredKeyedService<IFixtureScraper>("CHL");
     var icsGenerator = app.Services.GetRequiredService<ICalendarGenerationService>();
     logger.LogInformation("Fetching League Fixtures");
-    var leagueFixtures = await eihlFixtureScraper
-        .GetFixturesAsync(builder.Configuration.GetValue<string>("Competitions:League")!, teamName);
+    var leagueFixtures = await eihlFixtureScraper.GetFixturesAsync(competitionsOptions.League, teamName);
     logger.LogInformation("Fetching Cup Fixtures");
-    var cupFixtures = await eihlFixtureScraper
-        .GetFixturesAsync(builder.Configuration.GetValue<string>("Competitions:Cup")!, teamName);
+    var cupFixtures = await eihlFixtureScraper.GetFixturesAsync(competitionsOptions.Cup, teamName);
     IReadOnlyCollection<Fixture> chlFixtures = [];
-    if (builder.Configuration.GetValue<string>("TeamsWithEuropean:CHL", "")
-        .Equals(teamName, StringComparison.OrdinalIgnoreCase))
+    if (europeanCompetitionsOptions.Chl.Equals(teamName, StringComparison.OrdinalIgnoreCase))
     {
         logger.LogInformation("Fetching CHL Fixtures");
         chlFixtures = await chlFixtureScraper.GetFixturesAsync("CHL", teamName);

@@ -32,7 +32,8 @@ public class CalendarGenerationService(Calendar calendar, ILogger<CalendarGenera
                 fixture.AwayTeam.Equals(teamName, StringComparison.OrdinalIgnoreCase) is false
             )
             {
-                logger.LogError("Invalid Fixture detected");
+        
+                logger.LogError("Invalid Fixture detected {HomeTeam} vs {AwayTeam} in {Competition}:{GameNumber}", fixture.HomeTeam, fixture.AwayTeam, fixture.CompetitionName, fixture.GameNumber);
                 invalidCalendarFixtures++;
             }
             
