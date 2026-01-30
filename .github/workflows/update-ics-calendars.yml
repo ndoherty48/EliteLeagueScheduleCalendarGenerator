@@ -15,7 +15,7 @@ jobs:
       - name: Setup dotnet
         uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: '9.0.x'
+          dotnet-version: '10.0.x'
       - name: Restore
         run: dotnet restore
       - name: Build
@@ -36,3 +36,8 @@ jobs:
           message: "Update EIHL ICS with latest fixtures"
           committer_name: GitHub Actions
           committer_email: actions@github.com
+          new_branch: updates/LatestFixturesIcs
+      - name: create pull request
+        run: gh pr create -B main -H updates/LatestFixturesIcs --title 'Update Elite League Calendar' --body 'Created by Github action'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

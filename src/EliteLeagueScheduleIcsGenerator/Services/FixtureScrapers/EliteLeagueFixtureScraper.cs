@@ -44,46 +44,33 @@ public class EliteLeagueFixtureScraper(IBrowserContext browserContext) : IFixtur
     private async Task<IReadOnlyCollection<string>> GetGameDatesAsync(IPage page)
     {
         var gameDateLocators = await page
-            .Locator("h2[class=\"delta mt-4 ml-lg-4 border-bottom border-bcolor pb-3 mb-0\"]")
+            .GetByRole(AriaRole.Article)
+            .Locator("div[class=\"container-fluid text-center text-md-left\"]")
+            .GetByRole(AriaRole.Heading)
             .AllAsync();
-        return gameDateLocators
+        return [..gameDateLocators
             .SelectMany(x => x.AllTextContentsAsync().Result)
             .Select(x => x.Split(" ").Last().Replace(".", "/"))
-            .ToList();
+        ];
     }
 
     private async Task<IReadOnlyCollection<GameCentreFixtureRow>> GetParsedFixtures(IPage page)
     {
         List<GameCentreFixtureRow> parsedFixtures = [];
-        var fixtureLocators = await page
+        var test = await page
+            .GetByRole(AriaRole.Article)
+            .Locator("div[class=\"container-fluid text-center text-md-left\"]")
             .Locator("div[class=\"row align-items-center pt-3 pb-3 border-bottom border-bcolor\"]")
             .AllAsync();
-
+        var fixtureLocators = test.Select((x) => x.InnerTextAsync().Result.Split("\n"));
         foreach (var fixture in fixtureLocators)
         {
-            var startTime = await fixture
-                .Locator("div[class=\"delta mb-0 pl-md-3 pl-lg-8\"]")
-                .InnerTextAsync();
-            var gameNumber = await fixture
-                .Locator("div[class=\"font-size-small\"]")
-                .InnerTextAsync();
-
-            var teamsLocator = await fixture
-                .Locator(
-                    "div[class=\"col-12 col-md-6 col-lg-5 d-flex justify-content-center justify-content-md-start align-items-center font-secondary\"]")
-                .Locator("a")
-                .AllAsync();
-            var teams = teamsLocator
-                .SelectMany(x => x.AllInnerTextsAsync().Result)
-                .Select(x => x.TrimStart().TrimEnd())
-                .ToList();
-
             parsedFixtures.Add(new GameCentreFixtureRow
             {
-                HomeTeam = teams.First(),
-                AwayTeam = teams.Last(),
-                GameNumber = gameNumber,
-                Start = TimeOnly.Parse($"{startTime}:00", CultureInfo.CurrentCulture)
+                Start = TimeOnly.Parse($"{fixture[0]}:00", CultureInfo.CurrentCulture),
+                GameNumber = fixture[1],
+                HomeTeam = fixture[2],
+                AwayTeam = fixture[4]
             });
         }
 
