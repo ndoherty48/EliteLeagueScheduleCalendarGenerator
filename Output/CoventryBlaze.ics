@@ -670,19 +670,6 @@ SUMMARY:@ Sheffield Steelers
 UID:190
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Challenge Cup 2025/2026,Cup
-DESCRIPTION:Cup: Belfast Giants vs Coventry Blaze @ SSE Arena\, Belfast on 
- 18/02/2026 19:00
-DTEND;TZID=Europe/London:20260218T213000
-DTSTAMP;TZID=Europe/London:20260218T190000
-DTSTART;TZID=Europe/London:20260218T190000
-GEO:0.000000;0.000000
-LOCATION:SSE Arena\, Belfast
-SEQUENCE:0
-SUMMARY:@ Belfast Giants
-UID:Semifinal
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Elite Ice Hockey League 2025/2026,League
 DESCRIPTION:League: Dundee Stars vs Coventry Blaze @ Dundee Ice Arena on 21
  /02/2026 19:00
@@ -733,6 +720,19 @@ LOCATION:Coventry SkyDome
 SEQUENCE:0
 SUMMARY:vs Guildford Flames
 UID:209
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Challenge Cup 2025/2026,Cup
+DESCRIPTION:Cup: Belfast Giants vs Coventry Blaze @ SSE Arena\, Belfast on 
+ 04/03/2026 19:00
+DTEND;TZID=Europe/London:20260304T213000
+DTSTAMP;TZID=Europe/London:20260304T190000
+DTSTART;TZID=Europe/London:20260304T190000
+GEO:0.000000;0.000000
+LOCATION:SSE Arena\, Belfast
+SEQUENCE:0
+SUMMARY:@ Belfast Giants
+UID:Semifinal
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Elite Ice Hockey League 2025/2026,League
