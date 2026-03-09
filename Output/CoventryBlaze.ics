@@ -787,6 +787,19 @@ SUMMARY:vs Glasgow Clan
 UID:230
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Challenge Cup 2025/2026,Cup
+DESCRIPTION:Cup: Coventry Blaze vs Nottingham Panthers @ Coventry SkyDome o
+ n 18/03/2026 19:30
+DTEND;TZID=Europe/London:20260318T220000
+DTSTAMP;TZID=Europe/London:20260318T193000
+DTSTART;TZID=Europe/London:20260318T193000
+GEO:0.000000;0.000000
+LOCATION:Coventry SkyDome
+SEQUENCE:0
+SUMMARY:vs Nottingham Panthers
+UID:Final
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Elite Ice Hockey League 2025/2026,League
 DESCRIPTION:League: Coventry Blaze vs Fife Flyers @ Coventry SkyDome on 21/
  03/2026 19:00
