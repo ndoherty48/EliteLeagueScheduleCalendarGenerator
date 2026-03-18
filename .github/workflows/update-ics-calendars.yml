@@ -36,8 +36,3 @@ jobs:
           message: "Update EIHL ICS with latest fixtures"
           committer_name: GitHub Actions
           committer_email: actions@github.com
-          new_branch: updates/LatestFixturesIcs
-      - name: create pull request
-        run: gh pr create -B main -H updates/LatestFixturesIcs --title 'Update Elite League Calendar' --body 'Created by Github action' || true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
