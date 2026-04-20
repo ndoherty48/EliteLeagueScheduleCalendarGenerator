@@ -851,4 +851,69 @@ SEQUENCE:0
 SUMMARY:@ Guildford Flames
 UID:269
 END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2025/2026,League
+DESCRIPTION:League: Manchester Storm vs Glasgow Clan @ Planet Ice Altrincha
+ m on 10/04/2026 13:00
+DTEND;TZID=Europe/London:20260410T153000
+DTSTAMP;TZID=Europe/London:20260410T130000
+DTSTART;TZID=Europe/London:20260410T130000
+GEO:0.000000;0.000000
+LOCATION:Planet Ice Altrincham
+SEQUENCE:0
+SUMMARY:vs Glasgow Clan
+UID:Third Place Playoff
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2025/2026,League
+DESCRIPTION:League: Manchester Storm vs Nottingham Panthers @ Planet Ice Al
+ trincham on 11/04/2026 19:00
+DTEND;TZID=Europe/London:20260411T213000
+DTSTAMP;TZID=Europe/London:20260411T190000
+DTSTART;TZID=Europe/London:20260411T190000
+GEO:0.000000;0.000000
+LOCATION:Planet Ice Altrincham
+SEQUENCE:0
+SUMMARY:vs Nottingham Panthers
+UID:Quarterfinal
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2025/2026,League
+DESCRIPTION:League: Nottingham Panthers vs Manchester Storm @ Motorpoint Ar
+ ena Nottingham on 12/04/2026 16:00
+DTEND;TZID=Europe/London:20260412T183000
+DTSTAMP;TZID=Europe/London:20260412T160000
+DTSTART;TZID=Europe/London:20260412T160000
+GEO:0.000000;0.000000
+LOCATION:Motorpoint Arena Nottingham
+SEQUENCE:0
+SUMMARY:@ Nottingham Panthers
+UID:Quarterfinal
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2025/2026,League
+DESCRIPTION:League: Sheffield Steelers vs Manchester Storm @ Utilita Arena\
+ , Sheffield on 18/04/2026 19:00
+DTEND;TZID=Europe/London:20260418T213000
+DTSTAMP;TZID=Europe/London:20260418T190000
+DTSTART;TZID=Europe/London:20260418T190000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:@ Sheffield Steelers
+UID:Semifinal
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2025/2026,League
+DESCRIPTION:League: Manchester Storm vs Glasgow Clan @ Planet Ice Altrincha
+ m on 19/04/2026 13:00
+DTEND;TZID=Europe/London:20260419T153000
+DTSTAMP;TZID=Europe/London:20260419T130000
+DTSTART;TZID=Europe/London:20260419T130000
+GEO:0.000000;0.000000
+LOCATION:Planet Ice Altrincham
+SEQUENCE:0
+SUMMARY:vs Glasgow Clan
+UID:Third Place Playoff
+END:VEVENT
 END:VCALENDAR

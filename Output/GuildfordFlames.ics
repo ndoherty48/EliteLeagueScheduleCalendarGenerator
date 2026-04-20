@@ -851,4 +851,30 @@ SEQUENCE:0
 SUMMARY:vs Manchester Storm
 UID:269
 END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2025/2026,League
+DESCRIPTION:League: Guildford Flames vs Sheffield Steelers @ Guildford Spec
+ trum on 11/04/2026 18:00
+DTEND;TZID=Europe/London:20260411T203000
+DTSTAMP;TZID=Europe/London:20260411T180000
+DTSTART;TZID=Europe/London:20260411T180000
+GEO:0.000000;0.000000
+LOCATION:Guildford Spectrum
+SEQUENCE:0
+SUMMARY:vs Sheffield Steelers
+UID:Quarterfinal
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2025/2026,League
+DESCRIPTION:League: Sheffield Steelers vs Guildford Flames @ Utilita Arena\
+ , Sheffield on 12/04/2026 16:00
+DTEND;TZID=Europe/London:20260412T183000
+DTSTAMP;TZID=Europe/London:20260412T160000
+DTSTART;TZID=Europe/London:20260412T160000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:@ Sheffield Steelers
+UID:Quarterfinal
+END:VEVENT
 END:VCALENDAR

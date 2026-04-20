@@ -890,4 +890,69 @@ SEQUENCE:0
 SUMMARY:vs Sheffield Steelers
 UID:270
 END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2025/2026,League
+DESCRIPTION:League: Manchester Storm vs Glasgow Clan @ Planet Ice Altrincha
+ m on 10/04/2026 13:00
+DTEND;TZID=Europe/London:20260410T153000
+DTSTAMP;TZID=Europe/London:20260410T130000
+DTSTART;TZID=Europe/London:20260410T130000
+GEO:0.000000;0.000000
+LOCATION:Planet Ice Altrincham
+SEQUENCE:0
+SUMMARY:@ Manchester Storm
+UID:Third Place Playoff
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2025/2026,League
+DESCRIPTION:League: Belfast Giants vs Glasgow Clan @ SSE Arena\, Belfast on
+  11/04/2026 19:00
+DTEND;TZID=Europe/London:20260411T213000
+DTSTAMP;TZID=Europe/London:20260411T190000
+DTSTART;TZID=Europe/London:20260411T190000
+GEO:0.000000;0.000000
+LOCATION:SSE Arena\, Belfast
+SEQUENCE:0
+SUMMARY:@ Belfast Giants
+UID:Quarterfinal
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2025/2026,League
+DESCRIPTION:League: Glasgow Clan vs Belfast Giants @ Braehead Arena on 12/0
+ 4/2026 19:00
+DTEND;TZID=Europe/London:20260412T213000
+DTSTAMP;TZID=Europe/London:20260412T190000
+DTSTART;TZID=Europe/London:20260412T190000
+GEO:0.000000;0.000000
+LOCATION:Braehead Arena
+SEQUENCE:0
+SUMMARY:vs Belfast Giants
+UID:Quarterfinal
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2025/2026,League
+DESCRIPTION:League: Cardiff Devils vs Glasgow Clan @ Vindico Arena on 18/04
+ /2026 15:00
+DTEND;TZID=Europe/London:20260418T173000
+DTSTAMP;TZID=Europe/London:20260418T150000
+DTSTART;TZID=Europe/London:20260418T150000
+GEO:0.000000;0.000000
+LOCATION:Vindico Arena
+SEQUENCE:0
+SUMMARY:@ Cardiff Devils
+UID:Semifinal
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2025/2026,League
+DESCRIPTION:League: Manchester Storm vs Glasgow Clan @ Planet Ice Altrincha
+ m on 19/04/2026 13:00
+DTEND;TZID=Europe/London:20260419T153000
+DTSTAMP;TZID=Europe/London:20260419T130000
+DTSTART;TZID=Europe/London:20260419T130000
+GEO:0.000000;0.000000
+LOCATION:Planet Ice Altrincham
+SEQUENCE:0
+SUMMARY:@ Manchester Storm
+UID:Third Place Playoff
+END:VEVENT
 END:VCALENDAR
