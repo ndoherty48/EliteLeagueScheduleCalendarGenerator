@@ -23,7 +23,7 @@ Website, for each of the 10 teams, and generate a calendar file (.ICS) for each 
 
 # Project Pre-Requisites
 ### SDKs
-- Dotnet 9
+- Dotnet 10
 
 ### Playwright Installation Instructions
 
@@ -36,11 +36,11 @@ src/EliteLeagueScheduleIcsGenerator/bin/Debug/net9.0/playwright.ps1 install
 # Subscribing to a team's calendar
 
 This can be done, by either using the raw github user content link for the ics file on GITHUB
-or using the `gh-calendars.nathandoherty.dev/{TeamName}.ics`
+or using the `eihl-calendars.nathandoherty.dev/{TeamName}.ics`
 
 eg:
 
-`https://gh-calendars.nathandoherty.dev/BelfastGiants.ics`
+`https://eihl-calendars.nathandoherty.dev/BelfastGiants.ics`
 
 or
 

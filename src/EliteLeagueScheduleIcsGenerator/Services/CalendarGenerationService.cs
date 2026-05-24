@@ -4,6 +4,7 @@ using Ical.Net.CalendarComponents;
 using Ical.Net.DataTypes;
 using Ical.Net.Serialization;
 using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Options;
 
 namespace EliteLeagueScheduleIcsGenerator.Services;
 
@@ -12,13 +13,30 @@ public interface ICalendarGenerationService
     Task GenerateCalendar(IReadOnlyCollection<Fixture> fixtures, string outputFile, string? teamName = null);
 }
 
-public class CalendarGenerationService(Calendar calendar, ILogger<CalendarGenerationService> logger) : ICalendarGenerationService
+public class CalendarGenerationService(Calendar calendar, ILogger<CalendarGenerationService> logger, IOptions<CalendarOptions> options) : ICalendarGenerationService
 {
     public async Task GenerateCalendar(IReadOnlyCollection<Fixture> fixtures, string outputFile,
         string? teamName = null)
     {
         int invalidCalendarFixtures = 0;
         calendar.AddTimeZone("Europe/London");
+
+        var outputDirectory = Path.GetDirectoryName(outputFile) ?? string.Empty;
+        var archiveFile = Path.Combine(outputDirectory, "Archive", Path.GetFileName(outputFile));
+        if (File.Exists(archiveFile) && options.Value.IncludeArchive)
+        {
+            logger.LogInformation("Loading archive calendar from {ArchiveFile}", archiveFile);
+            var archiveCalendar = Calendar.Load(await File.ReadAllTextAsync(archiveFile));
+            if(archiveCalendar is not null)
+            {
+                calendar.Events.AddRange(archiveCalendar.Events);
+                logger.LogInformation("Loaded {EventCount} events from archive", archiveCalendar.Events.Count);
+            }
+        }
+        else if (options.Value.IncludeArchive)
+        {
+            logger.LogInformation("No archive file found at {ArchiveFile}", archiveFile);
+        }
         foreach (var fixture in fixtures.OrderBy(x=>x.StartTime))
         {
             var competition = fixture.CompetitionName;

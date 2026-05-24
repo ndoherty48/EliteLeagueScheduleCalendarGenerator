@@ -9,6 +9,8 @@ project.lock.json
 # Visual Studio Code
 .vscode
 
+.playwright-cli
+
 # User-specific files
 *.suo
 *.user

@@ -10,7 +10,7 @@ public static class HomeArenaExtensions
             "Dundee Stars" => "Dundee Ice Arena",
             "Glasgow Clan" => "Braehead Arena",
             "Fife Flyers" => "Fife Ice Arena",
-            "Manchester Storm" => "Planet Ice Altrincham",
+            "Manchester Storm" => "AO Arena, Manchestergi",
             "Sheffield Steelers" => "Utilita Arena, Sheffield",
             "Guildford Flames" => "Guildford Spectrum",
             "Cardiff Devils" => "Vindico Arena",

@@ -24,13 +24,16 @@ var europeanCompetitionsOptions = builder.Configuration.GetSection("TeamsWithEur
 ArgumentNullException.ThrowIfNull(competitionsOptions);
 ArgumentNullException.ThrowIfNull(europeanCompetitionsOptions);
 
+var playwright = await Playwright.CreateAsync();
+var browser = await playwright.Chromium.LaunchAsync(browserTypeLaunchOptions);
+
 builder.Services
-    .AddSingleton<IPlaywright>(_ => Playwright.CreateAsync().Result)
-    .AddTransient<IBrowser>(x => x.GetRequiredService<IPlaywright>().Chromium
-        .LaunchAsync(browserTypeLaunchOptions).Result)
-    .AddTransient<IBrowserContext>(x => x.GetRequiredService<IBrowser>()
-        .NewContextAsync(browserNewContextOptions).Result)
+    .AddSingleton(playwright)
+    .AddSingleton(browser)
+    .AddSingleton(browserNewContextOptions ?? new BrowserNewContextOptions())
     .AddTransient<Calendar>();
+
+builder.Services.Configure<CalendarOptions>(builder.Configuration.GetSection("CalendarOptions"));
 
 builder.Services
     .AddTransient<ICalendarGenerationService, CalendarGenerationService>()
@@ -66,3 +69,6 @@ foreach (var (index, teamName) in (builder.Configuration.GetSection("Teams").Get
     await icsGenerator.GenerateCalendar([..leagueFixtures, ..cupFixtures, ..chlFixtures],
         $"{pathToGeneratedCalendars}/{teamName.Replace(" ", string.Empty)}.ics", teamName);
 }
+
+await browser.DisposeAsync();
+playwright.Dispose();

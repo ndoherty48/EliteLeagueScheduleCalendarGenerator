@@ -1,17 +1,39 @@
 ﻿using System.Globalization;
 using EliteLeagueScheduleIcsGenerator.Dto;
 using EliteLeagueScheduleIcsGenerator.Extensions;
+using Microsoft.Extensions.Logging;
 using Microsoft.Playwright;
 
 namespace EliteLeagueScheduleIcsGenerator.Services.FixtureScrapers;
 
-public class EliteLeagueFixtureScraper(IBrowserContext browserContext) : IFixtureScraper
+public class EliteLeagueFixtureScraper(IBrowser browser, BrowserNewContextOptions contextOptions, ILogger<EliteLeagueFixtureScraper> logger) : IFixtureScraper
 {
+    private const int MaxRetries = 3;
+
     public async Task<IReadOnlyCollection<Fixture>> GetFixturesAsync(string competitionName, string? tenant = null)
     {
+        for (var attempt = 1; attempt <= MaxRetries; attempt++)
+        {
+            try
+            {
+                return await ScrapeFixturesAsync(competitionName, tenant);
+            }
+            catch (Exception ex) when (attempt < MaxRetries)
+            {
+                logger.LogWarning(ex, "Attempt {Attempt}/{MaxRetries} failed for {Competition}, retrying...", attempt, MaxRetries, competitionName);
+                await Task.Delay(attempt * 2000);
+            }
+        }
+
+        throw new InvalidOperationException($"Failed to scrape {competitionName} after {MaxRetries} attempts");
+    }
+
+    private async Task<IReadOnlyCollection<Fixture>> ScrapeFixturesAsync(string competitionName, string? tenant)
+    {
+        await using var browserContext = await browser.NewContextAsync(contextOptions);
         var page = await browserContext.NewPageAsync();
         await page.GotoAsync("https://www.eliteleague.co.uk/schedule",
-            new PageGotoOptions { Timeout = 0, WaitUntil = WaitUntilState.NetworkIdle });
+            new PageGotoOptions { Timeout = 60_000, WaitUntil = WaitUntilState.NetworkIdle });
         await page.GetByLabel("Season year").SelectOptionAsync(competitionName);
         await page.WaitForLoadStateAsync(LoadState.DOMContentLoaded);
         if (tenant != null) await page.GetByLabel("Season teams").SelectOptionAsync(tenant);
@@ -48,23 +70,29 @@ public class EliteLeagueFixtureScraper(IBrowserContext browserContext) : IFixtur
             .Locator("div[class=\"container-fluid text-center text-md-left\"]")
             .GetByRole(AriaRole.Heading)
             .AllAsync();
-        return [..gameDateLocators
-            .SelectMany(x => x.AllTextContentsAsync().Result)
-            .Select(x => x.Split(" ").Last().Replace(".", "/"))
-        ];
+
+        List<string> gameDates = [];
+        foreach (var locator in gameDateLocators)
+        {
+            var texts = await locator.AllTextContentsAsync();
+            gameDates.AddRange(texts.Select(x => x.Split(" ").Last().Replace(".", "/")));
+        }
+
+        return gameDates;
     }
 
     private async Task<IReadOnlyCollection<GameCentreFixtureRow>> GetParsedFixtures(IPage page)
     {
         List<GameCentreFixtureRow> parsedFixtures = [];
-        var test = await page
+        var fixtureRows = await page
             .GetByRole(AriaRole.Article)
             .Locator("div[class=\"container-fluid text-center text-md-left\"]")
             .Locator("div[class=\"row align-items-center pt-3 pb-3 border-bottom border-bcolor\"]")
             .AllAsync();
-        var fixtureLocators = test.Select((x) => x.InnerTextAsync().Result.Split("\n"));
-        foreach (var fixture in fixtureLocators)
+
+        foreach (var row in fixtureRows)
         {
+            var fixture = (await row.InnerTextAsync()).Split("\n");
             parsedFixtures.Add(new GameCentreFixtureRow
             {
                 Start = TimeOnly.Parse($"{fixture[0]}:00", CultureInfo.CurrentCulture),
