@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 5.0.0//EN
+PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 5.2.2//EN
 VERSION:2.0
 BEGIN:VTIMEZONE
 TZID:Europe/London

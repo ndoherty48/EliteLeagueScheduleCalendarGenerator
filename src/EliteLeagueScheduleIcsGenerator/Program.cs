@@ -9,7 +9,8 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Playwright;
 
 var builder = Host.CreateApplicationBuilder(args);
-builder.Configuration.AddJsonFile("appsettings.json", true, true);
+builder.Configuration.SetBasePath(AppContext.BaseDirectory)
+    .AddJsonFile("appsettings.json", true, true);
 
 builder.Logging.ClearProviders().AddSimpleConsole(x =>
 {
