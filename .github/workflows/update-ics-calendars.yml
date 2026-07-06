@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
     
   schedule:
-    - cron: 15 9 * * 5
+    - cron: 5 10 * * 5
 jobs:
   calendar-generation:
     runs-on: Windows-Latest
