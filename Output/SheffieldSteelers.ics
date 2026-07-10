@@ -929,4 +929,836 @@ SEQUENCE:0
 SUMMARY:@ Cardiff Devils
 UID:Final
 END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Challenge Cup 2026/2027,Cup
+DESCRIPTION:Cup: Sheffield Steelers vs Coventry Blaze @ Utilita Arena\, She
+ ffield on 12/09/2026 19:00
+DTEND;TZID=Europe/London:20260912T213000
+DTSTAMP;TZID=Europe/London:20260912T190000
+DTSTART;TZID=Europe/London:20260912T190000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:vs Coventry Blaze
+UID:CC1
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Challenge Cup 2026/2027,Cup
+DESCRIPTION:Cup: Guildford Flames vs Sheffield Steelers @ Guildford Spectru
+ m on 13/09/2026 18:00
+DTEND;TZID=Europe/London:20260913T203000
+DTSTAMP;TZID=Europe/London:20260913T180000
+DTSTART;TZID=Europe/London:20260913T180000
+GEO:0.000000;0.000000
+LOCATION:Guildford Spectrum
+SEQUENCE:0
+SUMMARY:@ Guildford Flames
+UID:CC10
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Challenge Cup 2026/2027,Cup
+DESCRIPTION:Cup: Sheffield Steelers vs Nottingham Panthers @ Utilita Arena\
+ , Sheffield on 19/09/2026 19:00
+DTEND;TZID=Europe/London:20260919T213000
+DTSTAMP;TZID=Europe/London:20260919T190000
+DTSTART;TZID=Europe/London:20260919T190000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:vs Nottingham Panthers
+UID:CC16
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Glasgow Clan vs Sheffield Steelers @ Braehead Arena on 
+ 20/09/2026 16:00
+DTEND;TZID=Europe/London:20260920T183000
+DTSTAMP;TZID=Europe/London:20260920T160000
+DTSTART;TZID=Europe/London:20260920T160000
+GEO:0.000000;0.000000
+LOCATION:Braehead Arena
+SEQUENCE:0
+SUMMARY:@ Glasgow Clan
+UID:1
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Guildford Flames vs Sheffield Steelers @ Guildford Spec
+ trum on 23/09/2026 19:30
+DTEND;TZID=Europe/London:20260923T220000
+DTSTAMP;TZID=Europe/London:20260923T193000
+DTSTART;TZID=Europe/London:20260923T193000
+GEO:0.000000;0.000000
+LOCATION:Guildford Spectrum
+SEQUENCE:0
+SUMMARY:@ Guildford Flames
+UID:3
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Challenge Cup 2026/2027,Cup
+DESCRIPTION:Cup: Sheffield Steelers vs Cardiff Devils @ Utilita Arena\, She
+ ffield on 26/09/2026 19:00
+DTEND;TZID=Europe/London:20260926T213000
+DTSTAMP;TZID=Europe/London:20260926T190000
+DTSTART;TZID=Europe/London:20260926T190000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:vs Cardiff Devils
+UID:CC22
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Challenge Cup 2026/2027,Cup
+DESCRIPTION:Cup: Coventry Blaze vs Sheffield Steelers @ Coventry SkyDome on
+  27/09/2026 17:30
+DTEND;TZID=Europe/London:20260927T200000
+DTSTAMP;TZID=Europe/London:20260927T173000
+DTSTART;TZID=Europe/London:20260927T173000
+GEO:0.000000;0.000000
+LOCATION:Coventry SkyDome
+SEQUENCE:0
+SUMMARY:@ Coventry Blaze
+UID:CC26
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Sheffield Steelers vs Fife Flyers @ Utilita Arena\, She
+ ffield on 03/10/2026 19:00
+DTEND;TZID=Europe/London:20261003T213000
+DTSTAMP;TZID=Europe/London:20261003T190000
+DTSTART;TZID=Europe/London:20261003T190000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:vs Fife Flyers
+UID:9
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Fife Flyers vs Sheffield Steelers @ Fife Ice Arena on 0
+ 4/10/2026 17:00
+DTEND;TZID=Europe/London:20261004T193000
+DTSTAMP;TZID=Europe/London:20261004T170000
+DTSTART;TZID=Europe/London:20261004T170000
+GEO:0.000000;0.000000
+LOCATION:Fife Ice Arena
+SEQUENCE:0
+SUMMARY:@ Fife Flyers
+UID:11
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Sheffield Steelers vs Glasgow Clan @ Utilita Arena\, Sh
+ effield on 10/10/2026 19:00
+DTEND;TZID=Europe/London:20261010T213000
+DTSTAMP;TZID=Europe/London:20261010T190000
+DTSTART;TZID=Europe/London:20261010T190000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:vs Glasgow Clan
+UID:18
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Challenge Cup 2026/2027,Cup
+DESCRIPTION:Cup: Manchester Storm vs Sheffield Steelers @ AO Arena\, Manche
+ ster on 11/10/2026 16:00
+DTEND;TZID=Europe/London:20261011T183000
+DTSTAMP;TZID=Europe/London:20261011T160000
+DTSTART;TZID=Europe/London:20261011T160000
+GEO:0.000000;0.000000
+LOCATION:AO Arena\, Manchester
+SEQUENCE:0
+SUMMARY:@ Manchester Storm
+UID:CC31
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Challenge Cup 2026/2027,Cup
+DESCRIPTION:Cup: Nottingham Panthers vs Sheffield Steelers @ Motorpoint Are
+ na Nottingham on 17/10/2026 19:00
+DTEND;TZID=Europe/London:20261017T213000
+DTSTAMP;TZID=Europe/London:20261017T190000
+DTSTART;TZID=Europe/London:20261017T190000
+GEO:0.000000;0.000000
+LOCATION:Motorpoint Arena Nottingham
+SEQUENCE:0
+SUMMARY:@ Nottingham Panthers
+UID:CC33
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Challenge Cup 2026/2027,Cup
+DESCRIPTION:Cup: Sheffield Steelers vs Guildford Flames @ Utilita Arena\, S
+ heffield on 18/10/2026 16:00
+DTEND;TZID=Europe/London:20261018T183000
+DTSTAMP;TZID=Europe/London:20261018T160000
+DTSTART;TZID=Europe/London:20261018T160000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:vs Guildford Flames
+UID:CC38
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Challenge Cup 2026/2027,Cup
+DESCRIPTION:Cup: Cardiff Devils vs Sheffield Steelers @ Vindico Arena on 24
+ /10/2026 19:00
+DTEND;TZID=Europe/London:20261024T213000
+DTSTAMP;TZID=Europe/London:20261024T190000
+DTSTART;TZID=Europe/London:20261024T190000
+GEO:0.000000;0.000000
+LOCATION:Vindico Arena
+SEQUENCE:0
+SUMMARY:@ Cardiff Devils
+UID:CC43
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Sheffield Steelers vs Fife Flyers @ Utilita Arena\, She
+ ffield on 25/10/2026 16:00
+DTEND;TZID=Europe/London:20261025T183000
+DTSTAMP;TZID=Europe/London:20261025T160000
+DTSTART;TZID=Europe/London:20261025T160000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:vs Fife Flyers
+UID:28
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Challenge Cup 2026/2027,Cup
+DESCRIPTION:Cup: Sheffield Steelers vs Manchester Storm @ Utilita Arena\, S
+ heffield on 28/10/2026 19:30
+DTEND;TZID=Europe/London:20261028T220000
+DTSTAMP;TZID=Europe/London:20261028T193000
+DTSTART;TZID=Europe/London:20261028T193000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:vs Manchester Storm
+UID:CC47
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Sheffield Steelers vs Nottingham Panthers @ Utilita Are
+ na\, Sheffield on 31/10/2026 19:00
+DTEND;TZID=Europe/London:20261031T213000
+DTSTAMP;TZID=Europe/London:20261031T190000
+DTSTART;TZID=Europe/London:20261031T190000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:vs Nottingham Panthers
+UID:32
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Coventry Blaze vs Sheffield Steelers @ Coventry SkyDome
+  on 01/11/2026 17:30
+DTEND;TZID=Europe/London:20261101T200000
+DTSTAMP;TZID=Europe/London:20261101T173000
+DTSTART;TZID=Europe/London:20261101T173000
+GEO:0.000000;0.000000
+LOCATION:Coventry SkyDome
+SEQUENCE:0
+SUMMARY:@ Coventry Blaze
+UID:34
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Manchester Storm vs Sheffield Steelers @ AO Arena\, Man
+ chester on 06/11/2026 19:30
+DTEND;TZID=Europe/London:20261106T220000
+DTSTAMP;TZID=Europe/London:20261106T193000
+DTSTART;TZID=Europe/London:20261106T193000
+GEO:0.000000;0.000000
+LOCATION:AO Arena\, Manchester
+SEQUENCE:0
+SUMMARY:@ Manchester Storm
+UID:36
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Sheffield Steelers vs Manchester Storm @ Utilita Arena\
+ , Sheffield on 07/11/2026 19:00
+DTEND;TZID=Europe/London:20261107T213000
+DTSTAMP;TZID=Europe/London:20261107T190000
+DTSTART;TZID=Europe/London:20261107T190000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:vs Manchester Storm
+UID:38
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Guildford Flames vs Sheffield Steelers @ Guildford Spec
+ trum on 14/11/2026 18:00
+DTEND;TZID=Europe/London:20261114T203000
+DTSTAMP;TZID=Europe/London:20261114T180000
+DTSTART;TZID=Europe/London:20261114T180000
+GEO:0.000000;0.000000
+LOCATION:Guildford Spectrum
+SEQUENCE:0
+SUMMARY:@ Guildford Flames
+UID:48
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Sheffield Steelers vs Coventry Blaze @ Utilita Arena\, 
+ Sheffield on 15/11/2026 16:00
+DTEND;TZID=Europe/London:20261115T183000
+DTSTAMP;TZID=Europe/London:20261115T160000
+DTSTART;TZID=Europe/London:20261115T160000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:vs Coventry Blaze
+UID:53
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Coventry Blaze vs Sheffield Steelers @ Coventry SkyDome
+  on 21/11/2026 19:00
+DTEND;TZID=Europe/London:20261121T213000
+DTSTAMP;TZID=Europe/London:20261121T190000
+DTSTART;TZID=Europe/London:20261121T190000
+GEO:0.000000;0.000000
+LOCATION:Coventry SkyDome
+SEQUENCE:0
+SUMMARY:@ Coventry Blaze
+UID:59
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Sheffield Steelers vs Cardiff Devils @ Utilita Arena\, 
+ Sheffield on 22/11/2026 16:00
+DTEND;TZID=Europe/London:20261122T183000
+DTSTAMP;TZID=Europe/London:20261122T160000
+DTSTART;TZID=Europe/London:20261122T160000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:vs Cardiff Devils
+UID:62
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Dundee Stars vs Sheffield Steelers @ Dundee Ice Arena o
+ n 28/11/2026 19:00
+DTEND;TZID=Europe/London:20261128T213000
+DTSTAMP;TZID=Europe/London:20261128T190000
+DTSTART;TZID=Europe/London:20261128T190000
+GEO:0.000000;0.000000
+LOCATION:Dundee Ice Arena
+SEQUENCE:0
+SUMMARY:@ Dundee Stars
+UID:71
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Sheffield Steelers vs Belfast Giants @ Utilita Arena\, 
+ Sheffield on 29/11/2026 16:00
+DTEND;TZID=Europe/London:20261129T183000
+DTSTAMP;TZID=Europe/London:20261129T160000
+DTSTART;TZID=Europe/London:20261129T160000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:vs Belfast Giants
+UID:72
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Sheffield Steelers vs Dundee Stars @ Utilita Arena\, Sh
+ effield on 05/12/2026 19:00
+DTEND;TZID=Europe/London:20261205T213000
+DTSTAMP;TZID=Europe/London:20261205T190000
+DTSTART;TZID=Europe/London:20261205T190000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:vs Dundee Stars
+UID:78
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Guildford Flames vs Sheffield Steelers @ Guildford Spec
+ trum on 06/12/2026 18:00
+DTEND;TZID=Europe/London:20261206T203000
+DTSTAMP;TZID=Europe/London:20261206T180000
+DTSTART;TZID=Europe/London:20261206T180000
+GEO:0.000000;0.000000
+LOCATION:Guildford Spectrum
+SEQUENCE:0
+SUMMARY:@ Guildford Flames
+UID:85
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Dundee Stars vs Sheffield Steelers @ Dundee Ice Arena o
+ n 12/12/2026 19:00
+DTEND;TZID=Europe/London:20261212T213000
+DTSTAMP;TZID=Europe/London:20261212T190000
+DTSTART;TZID=Europe/London:20261212T190000
+GEO:0.000000;0.000000
+LOCATION:Dundee Ice Arena
+SEQUENCE:0
+SUMMARY:@ Dundee Stars
+UID:90
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Fife Flyers vs Sheffield Steelers @ Fife Ice Arena on 1
+ 3/12/2026 17:00
+DTEND;TZID=Europe/London:20261213T193000
+DTSTAMP;TZID=Europe/London:20261213T170000
+DTSTART;TZID=Europe/London:20261213T170000
+GEO:0.000000;0.000000
+LOCATION:Fife Ice Arena
+SEQUENCE:0
+SUMMARY:@ Fife Flyers
+UID:93
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Cardiff Devils vs Sheffield Steelers @ Vindico Arena on
+  18/12/2026 19:00
+DTEND;TZID=Europe/London:20261218T213000
+DTSTAMP;TZID=Europe/London:20261218T190000
+DTSTART;TZID=Europe/London:20261218T190000
+GEO:0.000000;0.000000
+LOCATION:Vindico Arena
+SEQUENCE:0
+SUMMARY:@ Cardiff Devils
+UID:99
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Sheffield Steelers vs Coventry Blaze @ Utilita Arena\, 
+ Sheffield on 19/12/2026 19:00
+DTEND;TZID=Europe/London:20261219T213000
+DTSTAMP;TZID=Europe/London:20261219T190000
+DTSTART;TZID=Europe/London:20261219T190000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:vs Coventry Blaze
+UID:101
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Belfast Giants vs Sheffield Steelers @ SSE Arena\, Belf
+ ast on 22/12/2026 19:00
+DTEND;TZID=Europe/London:20261222T213000
+DTSTAMP;TZID=Europe/London:20261222T190000
+DTSTART;TZID=Europe/London:20261222T190000
+GEO:0.000000;0.000000
+LOCATION:SSE Arena\, Belfast
+SEQUENCE:0
+SUMMARY:@ Belfast Giants
+UID:107
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Sheffield Steelers vs Nottingham Panthers @ Utilita Are
+ na\, Sheffield on 26/12/2026 16:00
+DTEND;TZID=Europe/London:20261226T183000
+DTSTAMP;TZID=Europe/London:20261226T160000
+DTSTART;TZID=Europe/London:20261226T160000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:vs Nottingham Panthers
+UID:111
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Nottingham Panthers vs Sheffield Steelers @ Motorpoint 
+ Arena Nottingham on 27/12/2026 16:00
+DTEND;TZID=Europe/London:20261227T183000
+DTSTAMP;TZID=Europe/London:20261227T160000
+DTSTART;TZID=Europe/London:20261227T160000
+GEO:0.000000;0.000000
+LOCATION:Motorpoint Arena Nottingham
+SEQUENCE:0
+SUMMARY:@ Nottingham Panthers
+UID:116
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Sheffield Steelers vs Manchester Storm @ Utilita Arena\
+ , Sheffield on 30/12/2026 19:30
+DTEND;TZID=Europe/London:20261230T220000
+DTSTAMP;TZID=Europe/London:20261230T193000
+DTSTART;TZID=Europe/London:20261230T193000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:vs Manchester Storm
+UID:124
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Manchester Storm vs Sheffield Steelers @ AO Arena\, Man
+ chester on 01/01/2027 19:30
+DTEND;TZID=Europe/London:20270101T220000
+DTSTAMP;TZID=Europe/London:20270101T193000
+DTSTART;TZID=Europe/London:20270101T193000
+GEO:0.000000;0.000000
+LOCATION:AO Arena\, Manchester
+SEQUENCE:0
+SUMMARY:@ Manchester Storm
+UID:128
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Sheffield Steelers vs Glasgow Clan @ Utilita Arena\, Sh
+ effield on 03/01/2027 16:00
+DTEND;TZID=Europe/London:20270103T183000
+DTSTAMP;TZID=Europe/London:20270103T160000
+DTSTART;TZID=Europe/London:20270103T160000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:vs Glasgow Clan
+UID:134
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Sheffield Steelers vs Guildford Flames @ Utilita Arena\
+ , Sheffield on 09/01/2027 19:00
+DTEND;TZID=Europe/London:20270109T213000
+DTSTAMP;TZID=Europe/London:20270109T190000
+DTSTART;TZID=Europe/London:20270109T190000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:vs Guildford Flames
+UID:140
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Fife Flyers vs Sheffield Steelers @ Fife Ice Arena on 1
+ 0/01/2027 17:00
+DTEND;TZID=Europe/London:20270110T193000
+DTSTAMP;TZID=Europe/London:20270110T170000
+DTSTART;TZID=Europe/London:20270110T170000
+GEO:0.000000;0.000000
+LOCATION:Fife Ice Arena
+SEQUENCE:0
+SUMMARY:@ Fife Flyers
+UID:145
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Sheffield Steelers vs Dundee Stars @ Utilita Arena\, Sh
+ effield on 16/01/2027 19:00
+DTEND;TZID=Europe/London:20270116T213000
+DTSTAMP;TZID=Europe/London:20270116T190000
+DTSTART;TZID=Europe/London:20270116T190000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:vs Dundee Stars
+UID:149
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Sheffield Steelers vs Fife Flyers @ Utilita Arena\, She
+ ffield on 17/01/2027 16:00
+DTEND;TZID=Europe/London:20270117T183000
+DTSTAMP;TZID=Europe/London:20270117T160000
+DTSTART;TZID=Europe/London:20270117T160000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:vs Fife Flyers
+UID:153
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Belfast Giants vs Sheffield Steelers @ SSE Arena\, Belf
+ ast on 22/01/2027 19:00
+DTEND;TZID=Europe/London:20270122T213000
+DTSTAMP;TZID=Europe/London:20270122T190000
+DTSTART;TZID=Europe/London:20270122T190000
+GEO:0.000000;0.000000
+LOCATION:SSE Arena\, Belfast
+SEQUENCE:0
+SUMMARY:@ Belfast Giants
+UID:156
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Belfast Giants vs Sheffield Steelers @ SSE Arena\, Belf
+ ast on 23/01/2027 19:00
+DTEND;TZID=Europe/London:20270123T213000
+DTSTAMP;TZID=Europe/London:20270123T190000
+DTSTART;TZID=Europe/London:20270123T190000
+GEO:0.000000;0.000000
+LOCATION:SSE Arena\, Belfast
+SEQUENCE:0
+SUMMARY:@ Belfast Giants
+UID:159
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Nottingham Panthers vs Sheffield Steelers @ Motorpoint 
+ Arena Nottingham on 30/01/2027 19:00
+DTEND;TZID=Europe/London:20270130T213000
+DTSTAMP;TZID=Europe/London:20270130T190000
+DTSTART;TZID=Europe/London:20270130T190000
+GEO:0.000000;0.000000
+LOCATION:Motorpoint Arena Nottingham
+SEQUENCE:0
+SUMMARY:@ Nottingham Panthers
+UID:169
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Sheffield Steelers vs Guildford Flames @ Utilita Arena\
+ , Sheffield on 31/01/2027 16:00
+DTEND;TZID=Europe/London:20270131T183000
+DTSTAMP;TZID=Europe/London:20270131T160000
+DTSTART;TZID=Europe/London:20270131T160000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:vs Guildford Flames
+UID:171
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Cardiff Devils vs Sheffield Steelers @ Vindico Arena on
+  06/02/2027 19:00
+DTEND;TZID=Europe/London:20270206T213000
+DTSTAMP;TZID=Europe/London:20270206T190000
+DTSTART;TZID=Europe/London:20270206T190000
+GEO:0.000000;0.000000
+LOCATION:Vindico Arena
+SEQUENCE:0
+SUMMARY:@ Cardiff Devils
+UID:180
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Sheffield Steelers vs Glasgow Clan @ Utilita Arena\, Sh
+ effield on 07/02/2027 16:00
+DTEND;TZID=Europe/London:20270207T183000
+DTSTAMP;TZID=Europe/London:20270207T160000
+DTSTART;TZID=Europe/London:20270207T160000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:vs Glasgow Clan
+UID:183
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Sheffield Steelers vs Dundee Stars @ Utilita Arena\, Sh
+ effield on 13/02/2027 19:00
+DTEND;TZID=Europe/London:20270213T213000
+DTSTAMP;TZID=Europe/London:20270213T190000
+DTSTART;TZID=Europe/London:20270213T190000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:vs Dundee Stars
+UID:188
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Dundee Stars vs Sheffield Steelers @ Dundee Ice Arena o
+ n 14/02/2027 17:00
+DTEND;TZID=Europe/London:20270214T193000
+DTSTAMP;TZID=Europe/London:20270214T170000
+DTSTART;TZID=Europe/London:20270214T170000
+GEO:0.000000;0.000000
+LOCATION:Dundee Ice Arena
+SEQUENCE:0
+SUMMARY:@ Dundee Stars
+UID:194
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Glasgow Clan vs Sheffield Steelers @ Braehead Arena on 
+ 19/02/2027 19:30
+DTEND;TZID=Europe/London:20270219T220000
+DTSTAMP;TZID=Europe/London:20270219T193000
+DTSTART;TZID=Europe/London:20270219T193000
+GEO:0.000000;0.000000
+LOCATION:Braehead Arena
+SEQUENCE:0
+SUMMARY:@ Glasgow Clan
+UID:197
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Sheffield Steelers vs Belfast Giants @ Utilita Arena\, 
+ Sheffield on 21/02/2027 16:00
+DTEND;TZID=Europe/London:20270221T183000
+DTSTAMP;TZID=Europe/London:20270221T160000
+DTSTART;TZID=Europe/London:20270221T160000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:vs Belfast Giants
+UID:202
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Sheffield Steelers vs Nottingham Panthers @ Utilita Are
+ na\, Sheffield on 27/02/2027 19:00
+DTEND;TZID=Europe/London:20270227T213000
+DTSTAMP;TZID=Europe/London:20270227T190000
+DTSTART;TZID=Europe/London:20270227T190000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:vs Nottingham Panthers
+UID:211
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Coventry Blaze vs Sheffield Steelers @ Coventry SkyDome
+  on 28/02/2027 17:30
+DTEND;TZID=Europe/London:20270228T200000
+DTSTAMP;TZID=Europe/London:20270228T173000
+DTSTART;TZID=Europe/London:20270228T173000
+GEO:0.000000;0.000000
+LOCATION:Coventry SkyDome
+SEQUENCE:0
+SUMMARY:@ Coventry Blaze
+UID:215
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Cardiff Devils vs Sheffield Steelers @ Vindico Arena on
+  06/03/2027 19:00
+DTEND;TZID=Europe/London:20270306T213000
+DTSTAMP;TZID=Europe/London:20270306T190000
+DTSTART;TZID=Europe/London:20270306T190000
+GEO:0.000000;0.000000
+LOCATION:Vindico Arena
+SEQUENCE:0
+SUMMARY:@ Cardiff Devils
+UID:223
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Sheffield Steelers vs Belfast Giants @ Utilita Arena\, 
+ Sheffield on 07/03/2027 16:00
+DTEND;TZID=Europe/London:20270307T183000
+DTSTAMP;TZID=Europe/London:20270307T160000
+DTSTART;TZID=Europe/London:20270307T160000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:vs Belfast Giants
+UID:225
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Nottingham Panthers vs Sheffield Steelers @ Motorpoint 
+ Arena Nottingham on 13/03/2027 19:00
+DTEND;TZID=Europe/London:20270313T213000
+DTSTAMP;TZID=Europe/London:20270313T190000
+DTSTART;TZID=Europe/London:20270313T190000
+GEO:0.000000;0.000000
+LOCATION:Motorpoint Arena Nottingham
+SEQUENCE:0
+SUMMARY:@ Nottingham Panthers
+UID:231
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Sheffield Steelers vs Guildford Flames @ Utilita Arena\
+ , Sheffield on 14/03/2027 16:00
+DTEND;TZID=Europe/London:20270314T183000
+DTSTAMP;TZID=Europe/London:20270314T160000
+DTSTART;TZID=Europe/London:20270314T160000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:vs Guildford Flames
+UID:235
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Sheffield Steelers vs Cardiff Devils @ Utilita Arena\, 
+ Sheffield on 20/03/2027 19:00
+DTEND;TZID=Europe/London:20270320T213000
+DTSTAMP;TZID=Europe/London:20270320T190000
+DTSTART;TZID=Europe/London:20270320T190000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:vs Cardiff Devils
+UID:242
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Sheffield Steelers vs Cardiff Devils @ Utilita Arena\, 
+ Sheffield on 21/03/2027 16:00
+DTEND;TZID=Europe/London:20270321T183000
+DTSTAMP;TZID=Europe/London:20270321T160000
+DTSTART;TZID=Europe/London:20270321T160000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:vs Cardiff Devils
+UID:245
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Sheffield Steelers vs Manchester Storm @ Utilita Arena\
+ , Sheffield on 27/03/2027 19:00
+DTEND;TZID=Europe/London:20270327T213000
+DTSTAMP;TZID=Europe/London:20270327T190000
+DTSTART;TZID=Europe/London:20270327T190000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:vs Manchester Storm
+UID:253
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Manchester Storm vs Sheffield Steelers @ AO Arena\, Man
+ chester on 28/03/2027 16:00
+DTEND;TZID=Europe/London:20270328T183000
+DTSTAMP;TZID=Europe/London:20270328T160000
+DTSTART;TZID=Europe/London:20270328T160000
+GEO:0.000000;0.000000
+LOCATION:AO Arena\, Manchester
+SEQUENCE:0
+SUMMARY:@ Manchester Storm
+UID:256
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Sheffield Steelers vs Coventry Blaze @ Utilita Arena\, 
+ Sheffield on 03/04/2027 19:00
+DTEND;TZID=Europe/London:20270403T213000
+DTSTAMP;TZID=Europe/London:20270403T190000
+DTSTART;TZID=Europe/London:20270403T190000
+GEO:0.000000;0.000000
+LOCATION:Utilita Arena\, Sheffield
+SEQUENCE:0
+SUMMARY:vs Coventry Blaze
+UID:265
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Elite Ice Hockey League 2026/2027,League
+DESCRIPTION:League: Glasgow Clan vs Sheffield Steelers @ Braehead Arena on 
+ 04/04/2027 18:00
+DTEND;TZID=Europe/London:20270404T203000
+DTSTAMP;TZID=Europe/London:20270404T180000
+DTSTART;TZID=Europe/London:20270404T180000
+GEO:0.000000;0.000000
+LOCATION:Braehead Arena
+SEQUENCE:0
+SUMMARY:@ Glasgow Clan
+UID:270
+END:VEVENT
 END:VCALENDAR
