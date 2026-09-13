@@ -1111,7 +1111,7 @@ SUMMARY:vs Dundee Stars
 UID:CC29
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Coventry Blaze vs Belfast Giants @ Coventry SkyDome on 
  10/10/2026 19:00
 DTEND;TZID=Europe/London:20261010T213000
@@ -1124,7 +1124,7 @@ SUMMARY:@ Coventry Blaze
 UID:15
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Belfast Giants @ Vindico Arena on 11/
  10/2026 17:00
 DTEND;TZID=Europe/London:20261011T193000
@@ -1150,7 +1150,7 @@ SUMMARY:vs Glasgow Clan
 UID:CC34
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Belfast Giants @ AO Arena\, Manches
  ter on 18/10/2026 16:00
 DTEND;TZID=Europe/London:20261018T183000
@@ -1176,7 +1176,7 @@ SUMMARY:@ Fife Flyers
 UID:CC41
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Belfast Giants @ Braehead Arena on 23/1
  0/2026 19:30
 DTEND;TZID=Europe/London:20261023T220000
@@ -1202,7 +1202,7 @@ SUMMARY:vs Glasgow Clan
 UID:CC44
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Belfast Giants @ Vindico Arena on 28/
  10/2026 19:00
 DTEND;TZID=Europe/London:20261028T213000
@@ -1215,7 +1215,7 @@ SUMMARY:@ Cardiff Devils
 UID:29
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Belfast Giants @ Motorpoint Aren
  a Nottingham on 30/10/2026 19:30
 DTEND;TZID=Europe/London:20261030T220000
@@ -1241,7 +1241,7 @@ SUMMARY:@ Fife Flyers
 UID:CC51
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Guildford Flames @ SSE Arena\, Belfas
  t on 07/11/2026 19:00
 DTEND;TZID=Europe/London:20261107T213000
@@ -1254,7 +1254,7 @@ SUMMARY:vs Guildford Flames
 UID:39
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Guildford Flames @ SSE Arena\, Belfas
  t on 08/11/2026 17:00
 DTEND;TZID=Europe/London:20261108T193000
@@ -1267,7 +1267,7 @@ SUMMARY:vs Guildford Flames
 UID:41
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Nottingham Panthers @ SSE Arena\, Bel
  fast on 21/11/2026 19:00
 DTEND;TZID=Europe/London:20261121T213000
@@ -1280,7 +1280,7 @@ SUMMARY:vs Nottingham Panthers
 UID:58
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Nottingham Panthers @ SSE Arena\, Bel
  fast on 22/11/2026 17:00
 DTEND;TZID=Europe/London:20261122T193000
@@ -1293,7 +1293,7 @@ SUMMARY:vs Nottingham Panthers
 UID:61
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Belfast Giants @ Guildford Spectrum
   on 28/11/2026 18:00
 DTEND;TZID=Europe/London:20261128T203000
@@ -1306,7 +1306,7 @@ SUMMARY:@ Guildford Flames
 UID:69
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Sheffield Steelers vs Belfast Giants @ Utilita Arena\, 
  Sheffield on 29/11/2026 16:00
 DTEND;TZID=Europe/London:20261129T183000
@@ -1319,7 +1319,7 @@ SUMMARY:@ Sheffield Steelers
 UID:72
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Belfast Giants @ Braehead Arena on 04/1
  2/2026 19:30
 DTEND;TZID=Europe/London:20261204T220000
@@ -1332,7 +1332,7 @@ SUMMARY:@ Glasgow Clan
 UID:76
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Fife Flyers vs Belfast Giants @ Fife Ice Arena on 05/12
  /2026 19:00
 DTEND;TZID=Europe/London:20261205T213000
@@ -1345,7 +1345,7 @@ SUMMARY:@ Fife Flyers
 UID:79
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Dundee Stars vs Belfast Giants @ Dundee Ice Arena on 06
  /12/2026 17:00
 DTEND;TZID=Europe/London:20261206T193000
@@ -1358,7 +1358,7 @@ SUMMARY:@ Dundee Stars
 UID:86
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Cardiff Devils @ SSE Arena\, Belfast 
  on 11/12/2026 19:00
 DTEND;TZID=Europe/London:20261211T213000
@@ -1371,7 +1371,7 @@ SUMMARY:vs Cardiff Devils
 UID:88
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Coventry Blaze @ SSE Arena\, Belfast 
  on 13/12/2026 17:00
 DTEND;TZID=Europe/London:20261213T193000
@@ -1384,7 +1384,7 @@ SUMMARY:vs Coventry Blaze
 UID:95
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Coventry Blaze vs Belfast Giants @ Coventry SkyDome on 
  16/12/2026 19:30
 DTEND;TZID=Europe/London:20261216T220000
@@ -1397,7 +1397,7 @@ SUMMARY:@ Coventry Blaze
 UID:97
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Manchester Storm @ SSE Arena\, Belfas
  t on 20/12/2026 17:00
 DTEND;TZID=Europe/London:20261220T193000
@@ -1410,7 +1410,7 @@ SUMMARY:vs Manchester Storm
 UID:103
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Sheffield Steelers @ SSE Arena\, Belf
  ast on 22/12/2026 19:00
 DTEND;TZID=Europe/London:20261222T213000
@@ -1423,7 +1423,7 @@ SUMMARY:vs Sheffield Steelers
 UID:107
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Glasgow Clan @ SSE Arena\, Belfast on
   26/12/2026 19:00
 DTEND;TZID=Europe/London:20261226T213000
@@ -1436,7 +1436,7 @@ SUMMARY:vs Glasgow Clan
 UID:115
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Fife Flyers @ SSE Arena\, Belfast on 
  28/12/2026 19:00
 DTEND;TZID=Europe/London:20261228T213000
@@ -1449,7 +1449,7 @@ SUMMARY:vs Fife Flyers
 UID:120
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Belfast Giants @ Braehead Arena on 30/1
  2/2026 19:30
 DTEND;TZID=Europe/London:20261230T220000
@@ -1462,7 +1462,7 @@ SUMMARY:@ Glasgow Clan
 UID:121
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Fife Flyers vs Belfast Giants @ Fife Ice Arena on 31/12
  /2026 15:00
 DTEND;TZID=Europe/London:20261231T173000
@@ -1475,7 +1475,7 @@ SUMMARY:@ Fife Flyers
 UID:126
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Dundee Stars @ SSE Arena\, Belfast on
   02/01/2027 19:00
 DTEND;TZID=Europe/London:20270102T213000
@@ -1488,7 +1488,7 @@ SUMMARY:vs Dundee Stars
 UID:131
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Dundee Stars vs Belfast Giants @ Dundee Ice Arena on 03
  /01/2027 17:00
 DTEND;TZID=Europe/London:20270103T193000
@@ -1501,7 +1501,7 @@ SUMMARY:@ Dundee Stars
 UID:132
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Belfast Giants @ AO Arena\, Manches
  ter on 09/01/2027 19:00
 DTEND;TZID=Europe/London:20270109T213000
@@ -1514,7 +1514,7 @@ SUMMARY:@ Manchester Storm
 UID:138
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Belfast Giants @ AO Arena\, Manches
  ter on 10/01/2027 16:00
 DTEND;TZID=Europe/London:20270110T183000
@@ -1527,7 +1527,7 @@ SUMMARY:@ Manchester Storm
 UID:142
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Sheffield Steelers @ SSE Arena\, Belf
  ast on 22/01/2027 19:00
 DTEND;TZID=Europe/London:20270122T213000
@@ -1540,7 +1540,7 @@ SUMMARY:vs Sheffield Steelers
 UID:156
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Sheffield Steelers @ SSE Arena\, Belf
  ast on 23/01/2027 19:00
 DTEND;TZID=Europe/London:20270123T213000
@@ -1553,7 +1553,7 @@ SUMMARY:vs Sheffield Steelers
 UID:159
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Fife Flyers @ SSE Arena\, Belfast on 
  29/01/2027 19:00
 DTEND;TZID=Europe/London:20270129T213000
@@ -1566,7 +1566,7 @@ SUMMARY:vs Fife Flyers
 UID:168
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Belfast Giants @ Vindico Arena on 31/
  01/2027 17:00
 DTEND;TZID=Europe/London:20270131T193000
@@ -1579,7 +1579,7 @@ SUMMARY:@ Cardiff Devils
 UID:172
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Manchester Storm @ SSE Arena\, Belfas
  t on 05/02/2027 19:00
 DTEND;TZID=Europe/London:20270205T213000
@@ -1592,7 +1592,7 @@ SUMMARY:vs Manchester Storm
 UID:176
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Manchester Storm @ SSE Arena\, Belfas
  t on 06/02/2027 19:00
 DTEND;TZID=Europe/London:20270206T213000
@@ -1605,7 +1605,7 @@ SUMMARY:vs Manchester Storm
 UID:179
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Fife Flyers vs Belfast Giants @ Fife Ice Arena on 07/02
  /2027 17:00
 DTEND;TZID=Europe/London:20270207T193000
@@ -1618,7 +1618,7 @@ SUMMARY:@ Fife Flyers
 UID:185
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Belfast Giants @ Motorpoint Aren
  a Nottingham on 13/02/2027 19:00
 DTEND;TZID=Europe/London:20270213T213000
@@ -1631,7 +1631,7 @@ SUMMARY:@ Nottingham Panthers
 UID:187
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Belfast Giants @ Motorpoint Aren
  a Nottingham on 14/02/2027 16:00
 DTEND;TZID=Europe/London:20270214T183000
@@ -1644,7 +1644,7 @@ SUMMARY:@ Nottingham Panthers
 UID:190
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Belfast Giants @ Guildford Spectrum
   on 17/02/2027 19:30
 DTEND;TZID=Europe/London:20270217T220000
@@ -1657,7 +1657,7 @@ SUMMARY:@ Guildford Flames
 UID:195
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Fife Flyers @ SSE Arena\, Belfast on 
  19/02/2027 19:00
 DTEND;TZID=Europe/London:20270219T213000
@@ -1670,7 +1670,7 @@ SUMMARY:vs Fife Flyers
 UID:196
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Sheffield Steelers vs Belfast Giants @ Utilita Arena\, 
  Sheffield on 21/02/2027 16:00
 DTEND;TZID=Europe/London:20270221T183000
@@ -1683,7 +1683,7 @@ SUMMARY:@ Sheffield Steelers
 UID:202
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Cardiff Devils @ SSE Arena\, Belfast 
  on 27/02/2027 19:00
 DTEND;TZID=Europe/London:20270227T213000
@@ -1696,7 +1696,7 @@ SUMMARY:vs Cardiff Devils
 UID:208
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Cardiff Devils @ SSE Arena\, Belfast 
  on 28/02/2027 17:00
 DTEND;TZID=Europe/London:20270228T193000
@@ -1709,7 +1709,7 @@ SUMMARY:vs Cardiff Devils
 UID:213
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Nottingham Panthers @ SSE Arena\, Bel
  fast on 05/03/2027 19:00
 DTEND;TZID=Europe/London:20270305T213000
@@ -1722,7 +1722,7 @@ SUMMARY:vs Nottingham Panthers
 UID:218
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Sheffield Steelers vs Belfast Giants @ Utilita Arena\, 
  Sheffield on 07/03/2027 16:00
 DTEND;TZID=Europe/London:20270307T183000
@@ -1735,7 +1735,7 @@ SUMMARY:@ Sheffield Steelers
 UID:225
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Glasgow Clan @ SSE Arena\, Belfast on
   13/03/2027 19:00
 DTEND;TZID=Europe/London:20270313T213000
@@ -1748,7 +1748,7 @@ SUMMARY:vs Glasgow Clan
 UID:232
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Dundee Stars vs Belfast Giants @ Dundee Ice Arena on 14
  /03/2027 17:00
 DTEND;TZID=Europe/London:20270314T193000
@@ -1761,7 +1761,7 @@ SUMMARY:@ Dundee Stars
 UID:237
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Coventry Blaze @ SSE Arena\, Belfast 
  on 20/03/2027 19:00
 DTEND;TZID=Europe/London:20270320T213000
@@ -1774,7 +1774,7 @@ SUMMARY:vs Coventry Blaze
 UID:241
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Coventry Blaze @ SSE Arena\, Belfast 
  on 21/03/2027 17:00
 DTEND;TZID=Europe/London:20270321T193000
@@ -1787,7 +1787,7 @@ SUMMARY:vs Coventry Blaze
 UID:244
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Guildford Flames @ SSE Arena\, Belfas
  t on 24/03/2027 19:00
 DTEND;TZID=Europe/London:20270324T213000
@@ -1800,7 +1800,7 @@ SUMMARY:vs Guildford Flames
 UID:248
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Dundee Stars @ SSE Arena\, Belfast on
   26/03/2027 19:00
 DTEND;TZID=Europe/London:20270326T213000
@@ -1813,7 +1813,7 @@ SUMMARY:vs Dundee Stars
 UID:251
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Belfast Giants @ Guildford Spectrum
   on 28/03/2027 18:00
 DTEND;TZID=Europe/London:20270328T203000
@@ -1826,7 +1826,7 @@ SUMMARY:@ Guildford Flames
 UID:258
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Dundee Stars @ SSE Arena\, Belfast on
   31/03/2027 19:00
 DTEND;TZID=Europe/London:20270331T213000
@@ -1839,7 +1839,7 @@ SUMMARY:vs Dundee Stars
 UID:260
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Glasgow Clan @ SSE Arena\, Belfast on
   03/04/2027 19:00
 DTEND;TZID=Europe/London:20270403T213000
@@ -1852,7 +1852,7 @@ SUMMARY:vs Glasgow Clan
 UID:261
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Coventry Blaze vs Belfast Giants @ Coventry SkyDome on 
  04/04/2027 18:00
 DTEND;TZID=Europe/London:20270404T203000

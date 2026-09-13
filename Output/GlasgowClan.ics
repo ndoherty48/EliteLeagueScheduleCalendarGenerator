@@ -982,7 +982,7 @@ SUMMARY:@ Fife Flyers
 UID:CC14
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Sheffield Steelers @ Braehead Arena on 
  20/09/2026 16:00
 DTEND;TZID=Europe/London:20260920T183000
@@ -995,7 +995,7 @@ SUMMARY:vs Sheffield Steelers
 UID:1
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Glasgow Clan @ AO Arena\, Mancheste
  r on 23/09/2026 19:30
 DTEND;TZID=Europe/London:20260923T220000
@@ -1034,7 +1034,7 @@ SUMMARY:vs Belfast Giants
 UID:CC24
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Manchester Storm @ Braehead Arena on 30
  /09/2026 19:30
 DTEND;TZID=Europe/London:20260930T220000
@@ -1047,7 +1047,7 @@ SUMMARY:vs Manchester Storm
 UID:6
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Glasgow Clan @ Guildford Spectrum o
  n 03/10/2026 18:00
 DTEND;TZID=Europe/London:20261003T203000
@@ -1060,7 +1060,7 @@ SUMMARY:@ Guildford Flames
 UID:8
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Glasgow Clan @ Vindico Arena on 04/10
  /2026 17:00
 DTEND;TZID=Europe/London:20261004T193000
@@ -1073,7 +1073,7 @@ SUMMARY:@ Cardiff Devils
 UID:12
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Sheffield Steelers vs Glasgow Clan @ Utilita Arena\, Sh
  effield on 10/10/2026 19:00
 DTEND;TZID=Europe/London:20261010T213000
@@ -1086,7 +1086,7 @@ SUMMARY:@ Sheffield Steelers
 UID:18
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Guildford Flames @ Braehead Arena on 11
  /10/2026 16:00
 DTEND;TZID=Europe/London:20261011T183000
@@ -1138,7 +1138,7 @@ SUMMARY:vs Fife Flyers
 UID:CC40
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Belfast Giants @ Braehead Arena on 23/1
  0/2026 19:30
 DTEND;TZID=Europe/London:20261023T220000
@@ -1177,7 +1177,7 @@ SUMMARY:vs Dundee Stars
 UID:CC49
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Glasgow Clan @ Guildford Spectrum o
  n 01/11/2026 18:00
 DTEND;TZID=Europe/London:20261101T203000
@@ -1216,7 +1216,7 @@ SUMMARY:@ Dundee Stars
 UID:CC54
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Fife Flyers @ Braehead Arena on 13/11/2
  026 19:30
 DTEND;TZID=Europe/London:20261113T220000
@@ -1229,7 +1229,7 @@ SUMMARY:vs Fife Flyers
 UID:46
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Fife Flyers vs Glasgow Clan @ Fife Ice Arena on 14/11/2
  026 19:00
 DTEND;TZID=Europe/London:20261114T213000
@@ -1242,7 +1242,7 @@ SUMMARY:@ Fife Flyers
 UID:50
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Guildford Flames @ Braehead Arena on 20
  /11/2026 19:30
 DTEND;TZID=Europe/London:20261120T220000
@@ -1255,7 +1255,7 @@ SUMMARY:vs Guildford Flames
 UID:57
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Coventry Blaze @ Braehead Arena on 25/1
  1/2026 19:30
 DTEND;TZID=Europe/London:20261125T220000
@@ -1268,7 +1268,7 @@ SUMMARY:vs Coventry Blaze
 UID:65
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Glasgow Clan @ AO Arena\, Mancheste
  r on 27/11/2026 19:30
 DTEND;TZID=Europe/London:20261127T220000
@@ -1281,7 +1281,7 @@ SUMMARY:@ Manchester Storm
 UID:67
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Glasgow Clan @ Vindico Arena on 28/11
  /2026 19:00
 DTEND;TZID=Europe/London:20261128T213000
@@ -1294,7 +1294,7 @@ SUMMARY:@ Cardiff Devils
 UID:68
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Belfast Giants @ Braehead Arena on 04/1
  2/2026 19:30
 DTEND;TZID=Europe/London:20261204T220000
@@ -1307,7 +1307,7 @@ SUMMARY:vs Belfast Giants
 UID:76
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Glasgow Clan @ Motorpoint Arena 
  Nottingham on 05/12/2026 19:00
 DTEND;TZID=Europe/London:20261205T213000
@@ -1320,7 +1320,7 @@ SUMMARY:@ Nottingham Panthers
 UID:77
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Coventry Blaze vs Glasgow Clan @ Coventry SkyDome on 06
  /12/2026 17:30
 DTEND;TZID=Europe/London:20261206T200000
@@ -1333,7 +1333,7 @@ SUMMARY:@ Coventry Blaze
 UID:83
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Cardiff Devils @ Braehead Arena on 13/1
  2/2026 16:00
 DTEND;TZID=Europe/London:20261213T183000
@@ -1346,7 +1346,7 @@ SUMMARY:vs Cardiff Devils
 UID:96
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Manchester Storm @ Braehead Arena on 18
  /12/2026 19:30
 DTEND;TZID=Europe/London:20261218T220000
@@ -1359,7 +1359,7 @@ SUMMARY:vs Manchester Storm
 UID:98
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Coventry Blaze vs Glasgow Clan @ Coventry SkyDome on 20
  /12/2026 17:30
 DTEND;TZID=Europe/London:20261220T200000
@@ -1372,7 +1372,7 @@ SUMMARY:@ Coventry Blaze
 UID:105
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Nottingham Panthers @ Braehead Arena on
   22/12/2026 19:30
 DTEND;TZID=Europe/London:20261222T220000
@@ -1385,7 +1385,7 @@ SUMMARY:vs Nottingham Panthers
 UID:108
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Fife Flyers vs Glasgow Clan @ Fife Ice Arena on 23/12/2
  026 19:30
 DTEND;TZID=Europe/London:20261223T220000
@@ -1398,7 +1398,7 @@ SUMMARY:@ Fife Flyers
 UID:110
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Glasgow Clan @ SSE Arena\, Belfast on
   26/12/2026 19:00
 DTEND;TZID=Europe/London:20261226T213000
@@ -1411,7 +1411,7 @@ SUMMARY:@ Belfast Giants
 UID:115
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Dundee Stars vs Glasgow Clan @ Dundee Ice Arena on 27/1
  2/2026 17:00
 DTEND;TZID=Europe/London:20261227T193000
@@ -1424,7 +1424,7 @@ SUMMARY:@ Dundee Stars
 UID:119
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Belfast Giants @ Braehead Arena on 30/1
  2/2026 19:30
 DTEND;TZID=Europe/London:20261230T220000
@@ -1437,7 +1437,7 @@ SUMMARY:vs Belfast Giants
 UID:121
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Dundee Stars @ Braehead Arena on 31/12/
  2026 15:00
 DTEND;TZID=Europe/London:20261231T173000
@@ -1450,7 +1450,7 @@ SUMMARY:vs Dundee Stars
 UID:125
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Sheffield Steelers vs Glasgow Clan @ Utilita Arena\, Sh
  effield on 03/01/2027 16:00
 DTEND;TZID=Europe/London:20270103T183000
@@ -1463,7 +1463,7 @@ SUMMARY:@ Sheffield Steelers
 UID:134
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Fife Flyers @ Braehead Arena on 09/01/2
  027 19:00
 DTEND;TZID=Europe/London:20270109T213000
@@ -1476,7 +1476,7 @@ SUMMARY:vs Fife Flyers
 UID:141
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Glasgow Clan @ Motorpoint Arena 
  Nottingham on 10/01/2027 16:00
 DTEND;TZID=Europe/London:20270110T183000
@@ -1489,7 +1489,7 @@ SUMMARY:@ Nottingham Panthers
 UID:143
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Cardiff Devils @ Braehead Arena on 15/0
  1/2027 19:30
 DTEND;TZID=Europe/London:20270115T220000
@@ -1502,7 +1502,7 @@ SUMMARY:vs Cardiff Devils
 UID:147
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Glasgow Clan @ Motorpoint Arena 
  Nottingham on 16/01/2027 19:00
 DTEND;TZID=Europe/London:20270116T213000
@@ -1515,7 +1515,7 @@ SUMMARY:@ Nottingham Panthers
 UID:148
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Dundee Stars @ Braehead Arena on 22/01/
  2027 19:30
 DTEND;TZID=Europe/London:20270122T220000
@@ -1528,7 +1528,7 @@ SUMMARY:vs Dundee Stars
 UID:158
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Glasgow Clan @ Vindico Arena on 23/01
  /2027 19:00
 DTEND;TZID=Europe/London:20270123T213000
@@ -1541,7 +1541,7 @@ SUMMARY:@ Cardiff Devils
 UID:162
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Coventry Blaze @ Braehead Arena on 29/0
  1/2027 19:30
 DTEND;TZID=Europe/London:20270129T220000
@@ -1554,7 +1554,7 @@ SUMMARY:vs Coventry Blaze
 UID:167
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Coventry Blaze vs Glasgow Clan @ Coventry SkyDome on 31
  /01/2027 17:30
 DTEND;TZID=Europe/London:20270131T200000
@@ -1567,7 +1567,7 @@ SUMMARY:@ Coventry Blaze
 UID:175
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Nottingham Panthers @ Braehead Arena on
   05/02/2027 19:30
 DTEND;TZID=Europe/London:20270205T220000
@@ -1580,7 +1580,7 @@ SUMMARY:vs Nottingham Panthers
 UID:177
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Sheffield Steelers vs Glasgow Clan @ Utilita Arena\, Sh
  effield on 07/02/2027 16:00
 DTEND;TZID=Europe/London:20270207T183000
@@ -1593,7 +1593,7 @@ SUMMARY:@ Sheffield Steelers
 UID:183
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Glasgow Clan @ Guildford Spectrum o
  n 14/02/2027 18:00
 DTEND;TZID=Europe/London:20270214T203000
@@ -1606,7 +1606,7 @@ SUMMARY:@ Guildford Flames
 UID:193
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Sheffield Steelers @ Braehead Arena on 
  19/02/2027 19:30
 DTEND;TZID=Europe/London:20270219T220000
@@ -1619,7 +1619,7 @@ SUMMARY:vs Sheffield Steelers
 UID:197
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Fife Flyers vs Glasgow Clan @ Fife Ice Arena on 20/02/2
  027 19:00
 DTEND;TZID=Europe/London:20270220T213000
@@ -1632,7 +1632,7 @@ SUMMARY:@ Fife Flyers
 UID:201
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Guildford Flames @ Braehead Arena on 24
  /02/2027 19:30
 DTEND;TZID=Europe/London:20270224T220000
@@ -1645,7 +1645,7 @@ SUMMARY:vs Guildford Flames
 UID:206
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Glasgow Clan @ AO Arena\, Mancheste
  r on 26/02/2027 19:30
 DTEND;TZID=Europe/London:20270226T220000
@@ -1658,7 +1658,7 @@ SUMMARY:@ Manchester Storm
 UID:207
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Manchester Storm @ Braehead Arena on 27
  /02/2027 19:00
 DTEND;TZID=Europe/London:20270227T213000
@@ -1671,7 +1671,7 @@ SUMMARY:vs Manchester Storm
 UID:209
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Dundee Stars @ Braehead Arena on 05/03/
  2027 19:30
 DTEND;TZID=Europe/London:20270305T220000
@@ -1684,7 +1684,7 @@ SUMMARY:vs Dundee Stars
 UID:219
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Dundee Stars vs Glasgow Clan @ Dundee Ice Arena on 06/0
  3/2027 19:00
 DTEND;TZID=Europe/London:20270306T213000
@@ -1697,7 +1697,7 @@ SUMMARY:@ Dundee Stars
 UID:222
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Coventry Blaze @ Braehead Arena on 12/0
  3/2027 19:30
 DTEND;TZID=Europe/London:20270312T220000
@@ -1710,7 +1710,7 @@ SUMMARY:vs Coventry Blaze
 UID:230
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Glasgow Clan @ SSE Arena\, Belfast on
   13/03/2027 19:00
 DTEND;TZID=Europe/London:20270313T213000
@@ -1723,7 +1723,7 @@ SUMMARY:@ Belfast Giants
 UID:232
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Fife Flyers @ Braehead Arena on 19/03/2
  027 19:30
 DTEND;TZID=Europe/London:20270319T220000
@@ -1736,7 +1736,7 @@ SUMMARY:vs Fife Flyers
 UID:239
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Dundee Stars vs Glasgow Clan @ Dundee Ice Arena on 21/0
  3/2027 17:00
 DTEND;TZID=Europe/London:20270321T193000
@@ -1749,7 +1749,7 @@ SUMMARY:@ Dundee Stars
 UID:247
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Nottingham Panthers @ Braehead Arena on
   26/03/2027 19:30
 DTEND;TZID=Europe/London:20270326T220000
@@ -1762,7 +1762,7 @@ SUMMARY:vs Nottingham Panthers
 UID:250
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Cardiff Devils @ Braehead Arena on 28/0
  3/2027 16:00
 DTEND;TZID=Europe/London:20270328T183000
@@ -1775,7 +1775,7 @@ SUMMARY:vs Cardiff Devils
 UID:259
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Glasgow Clan @ SSE Arena\, Belfast on
   03/04/2027 19:00
 DTEND;TZID=Europe/London:20270403T213000
@@ -1788,7 +1788,7 @@ SUMMARY:@ Belfast Giants
 UID:261
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Sheffield Steelers @ Braehead Arena on 
  04/04/2027 18:00
 DTEND;TZID=Europe/London:20270404T203000

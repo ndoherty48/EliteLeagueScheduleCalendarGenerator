@@ -956,7 +956,7 @@ SUMMARY:@ Coventry Blaze
 UID:CC13
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Glasgow Clan @ AO Arena\, Mancheste
  r on 23/09/2026 19:30
 DTEND;TZID=Europe/London:20260923T220000
@@ -969,7 +969,7 @@ SUMMARY:vs Glasgow Clan
 UID:4
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Manchester Storm @ Motorpoint Ar
  ena Nottingham on 26/09/2026 19:00
 DTEND;TZID=Europe/London:20260926T213000
@@ -995,7 +995,7 @@ SUMMARY:vs Guildford Flames
 UID:CC25
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Manchester Storm @ Braehead Arena on 30
  /09/2026 19:30
 DTEND;TZID=Europe/London:20260930T220000
@@ -1008,7 +1008,7 @@ SUMMARY:@ Glasgow Clan
 UID:6
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Manchester Storm @ Vindico Arena on 0
  3/10/2026 19:00
 DTEND;TZID=Europe/London:20261003T213000
@@ -1021,7 +1021,7 @@ SUMMARY:@ Cardiff Devils
 UID:7
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Coventry Blaze vs Manchester Storm @ Coventry SkyDome o
  n 04/10/2026 17:30
 DTEND;TZID=Europe/London:20261004T200000
@@ -1034,7 +1034,7 @@ SUMMARY:@ Coventry Blaze
 UID:10
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Dundee Stars vs Manchester Storm @ Dundee Ice Arena on 
  07/10/2026 19:30
 DTEND;TZID=Europe/London:20261007T220000
@@ -1073,7 +1073,7 @@ SUMMARY:@ Guildford Flames
 UID:CC36
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Belfast Giants @ AO Arena\, Manches
  ter on 18/10/2026 16:00
 DTEND;TZID=Europe/London:20261018T183000
@@ -1086,7 +1086,7 @@ SUMMARY:vs Belfast Giants
 UID:23
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Fife Flyers vs Manchester Storm @ Fife Ice Arena on 24/
  10/2026 19:00
 DTEND;TZID=Europe/London:20261024T213000
@@ -1138,7 +1138,7 @@ SUMMARY:vs Cardiff Devils
 UID:CC52
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Sheffield Steelers @ AO Arena\, Man
  chester on 06/11/2026 19:30
 DTEND;TZID=Europe/London:20261106T220000
@@ -1151,7 +1151,7 @@ SUMMARY:vs Sheffield Steelers
 UID:36
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Sheffield Steelers vs Manchester Storm @ Utilita Arena\
  , Sheffield on 07/11/2026 19:00
 DTEND;TZID=Europe/London:20261107T213000
@@ -1164,7 +1164,7 @@ SUMMARY:@ Sheffield Steelers
 UID:38
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Fife Flyers @ AO Arena\, Manchester
   on 11/11/2026 19:30
 DTEND;TZID=Europe/London:20261111T220000
@@ -1177,7 +1177,7 @@ SUMMARY:vs Fife Flyers
 UID:44
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Dundee Stars vs Manchester Storm @ Dundee Ice Arena on 
  15/11/2026 17:00
 DTEND;TZID=Europe/London:20261115T193000
@@ -1190,7 +1190,7 @@ SUMMARY:@ Dundee Stars
 UID:51
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Fife Flyers @ AO Arena\, Manchester
   on 19/11/2026 19:30
 DTEND;TZID=Europe/London:20261119T220000
@@ -1203,7 +1203,7 @@ SUMMARY:vs Fife Flyers
 UID:55
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Manchester Storm @ Vindico Arena on 2
  0/11/2026 19:00
 DTEND;TZID=Europe/London:20261120T213000
@@ -1216,7 +1216,7 @@ SUMMARY:@ Cardiff Devils
 UID:56
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Fife Flyers vs Manchester Storm @ Fife Ice Arena on 22/
  11/2026 17:00
 DTEND;TZID=Europe/London:20261122T193000
@@ -1229,7 +1229,7 @@ SUMMARY:@ Fife Flyers
 UID:63
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Glasgow Clan @ AO Arena\, Mancheste
  r on 27/11/2026 19:30
 DTEND;TZID=Europe/London:20261127T220000
@@ -1242,7 +1242,7 @@ SUMMARY:vs Glasgow Clan
 UID:67
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Cardiff Devils @ AO Arena\, Manches
  ter on 29/11/2026 16:00
 DTEND;TZID=Europe/London:20261129T183000
@@ -1255,7 +1255,7 @@ SUMMARY:vs Cardiff Devils
 UID:73
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Manchester Storm @ Guildford Spectr
  um on 05/12/2026 18:00
 DTEND;TZID=Europe/London:20261205T203000
@@ -1268,7 +1268,7 @@ SUMMARY:@ Guildford Flames
 UID:81
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Nottingham Panthers @ AO Arena\, Ma
  nchester on 06/12/2026 16:00
 DTEND;TZID=Europe/London:20261206T183000
@@ -1281,7 +1281,7 @@ SUMMARY:vs Nottingham Panthers
 UID:82
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Dundee Stars @ AO Arena\, Mancheste
  r on 09/12/2026 19:30
 DTEND;TZID=Europe/London:20261209T220000
@@ -1294,7 +1294,7 @@ SUMMARY:vs Dundee Stars
 UID:87
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Manchester Storm @ Motorpoint Ar
  ena Nottingham on 13/12/2026 16:00
 DTEND;TZID=Europe/London:20261213T183000
@@ -1307,7 +1307,7 @@ SUMMARY:@ Nottingham Panthers
 UID:94
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Manchester Storm @ Braehead Arena on 18
  /12/2026 19:30
 DTEND;TZID=Europe/London:20261218T220000
@@ -1320,7 +1320,7 @@ SUMMARY:@ Glasgow Clan
 UID:98
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Manchester Storm @ SSE Arena\, Belfas
  t on 20/12/2026 17:00
 DTEND;TZID=Europe/London:20261220T193000
@@ -1333,7 +1333,7 @@ SUMMARY:@ Belfast Giants
 UID:103
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Guildford Flames @ AO Arena\, Manch
  ester on 26/12/2026 19:00
 DTEND;TZID=Europe/London:20261226T213000
@@ -1346,7 +1346,7 @@ SUMMARY:vs Guildford Flames
 UID:112
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Manchester Storm @ Guildford Spectr
  um on 27/12/2026 18:00
 DTEND;TZID=Europe/London:20261227T203000
@@ -1359,7 +1359,7 @@ SUMMARY:@ Guildford Flames
 UID:117
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Sheffield Steelers vs Manchester Storm @ Utilita Arena\
  , Sheffield on 30/12/2026 19:30
 DTEND;TZID=Europe/London:20261230T220000
@@ -1372,7 +1372,7 @@ SUMMARY:@ Sheffield Steelers
 UID:124
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Sheffield Steelers @ AO Arena\, Man
  chester on 01/01/2027 19:30
 DTEND;TZID=Europe/London:20270101T220000
@@ -1385,7 +1385,7 @@ SUMMARY:vs Sheffield Steelers
 UID:128
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Coventry Blaze @ AO Arena\, Manches
  ter on 03/01/2027 16:00
 DTEND;TZID=Europe/London:20270103T183000
@@ -1398,7 +1398,7 @@ SUMMARY:vs Coventry Blaze
 UID:136
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Belfast Giants @ AO Arena\, Manches
  ter on 09/01/2027 19:00
 DTEND;TZID=Europe/London:20270109T213000
@@ -1411,7 +1411,7 @@ SUMMARY:vs Belfast Giants
 UID:138
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Belfast Giants @ AO Arena\, Manches
  ter on 10/01/2027 16:00
 DTEND;TZID=Europe/London:20270110T183000
@@ -1424,7 +1424,7 @@ SUMMARY:vs Belfast Giants
 UID:142
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Nottingham Panthers @ AO Arena\, Ma
  nchester on 17/01/2027 16:00
 DTEND;TZID=Europe/London:20270117T183000
@@ -1437,7 +1437,7 @@ SUMMARY:vs Nottingham Panthers
 UID:152
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Coventry Blaze vs Manchester Storm @ Coventry SkyDome o
  n 22/01/2027 19:30
 DTEND;TZID=Europe/London:20270122T220000
@@ -1450,7 +1450,7 @@ SUMMARY:@ Coventry Blaze
 UID:157
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Cardiff Devils @ AO Arena\, Manches
  ter on 24/01/2027 16:00
 DTEND;TZID=Europe/London:20270124T183000
@@ -1463,7 +1463,7 @@ SUMMARY:vs Cardiff Devils
 UID:163
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Dundee Stars @ AO Arena\, Mancheste
  r on 28/01/2027 19:30
 DTEND;TZID=Europe/London:20270128T220000
@@ -1476,7 +1476,7 @@ SUMMARY:vs Dundee Stars
 UID:166
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Dundee Stars vs Manchester Storm @ Dundee Ice Arena on 
  31/01/2027 17:00
 DTEND;TZID=Europe/London:20270131T193000
@@ -1489,7 +1489,7 @@ SUMMARY:@ Dundee Stars
 UID:174
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Manchester Storm @ SSE Arena\, Belfas
  t on 05/02/2027 19:00
 DTEND;TZID=Europe/London:20270205T213000
@@ -1502,7 +1502,7 @@ SUMMARY:@ Belfast Giants
 UID:176
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Manchester Storm @ SSE Arena\, Belfas
  t on 06/02/2027 19:00
 DTEND;TZID=Europe/London:20270206T213000
@@ -1515,7 +1515,7 @@ SUMMARY:@ Belfast Giants
 UID:179
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Coventry Blaze @ AO Arena\, Manches
  ter on 11/02/2027 19:30
 DTEND;TZID=Europe/London:20270211T220000
@@ -1528,7 +1528,7 @@ SUMMARY:vs Coventry Blaze
 UID:186
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Cardiff Devils @ AO Arena\, Manches
  ter on 14/02/2027 16:00
 DTEND;TZID=Europe/London:20270214T183000
@@ -1541,7 +1541,7 @@ SUMMARY:vs Cardiff Devils
 UID:191
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Guildford Flames @ AO Arena\, Manch
  ester on 19/02/2027 19:30
 DTEND;TZID=Europe/London:20270219T220000
@@ -1554,7 +1554,7 @@ SUMMARY:vs Guildford Flames
 UID:198
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Manchester Storm @ Vindico Arena on 2
  1/02/2027 17:00
 DTEND;TZID=Europe/London:20270221T193000
@@ -1567,7 +1567,7 @@ SUMMARY:@ Cardiff Devils
 UID:203
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Glasgow Clan @ AO Arena\, Mancheste
  r on 26/02/2027 19:30
 DTEND;TZID=Europe/London:20270226T220000
@@ -1580,7 +1580,7 @@ SUMMARY:vs Glasgow Clan
 UID:207
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Manchester Storm @ Braehead Arena on 27
  /02/2027 19:00
 DTEND;TZID=Europe/London:20270227T213000
@@ -1593,7 +1593,7 @@ SUMMARY:@ Glasgow Clan
 UID:209
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Fife Flyers vs Manchester Storm @ Fife Ice Arena on 05/
  03/2027 19:00
 DTEND;TZID=Europe/London:20270305T213000
@@ -1606,7 +1606,7 @@ SUMMARY:@ Fife Flyers
 UID:220
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Dundee Stars @ AO Arena\, Mancheste
  r on 07/03/2027 16:00
 DTEND;TZID=Europe/London:20270307T183000
@@ -1619,7 +1619,7 @@ SUMMARY:vs Dundee Stars
 UID:228
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Coventry Blaze @ AO Arena\, Manches
  ter on 10/03/2027 19:00
 DTEND;TZID=Europe/London:20270310T213000
@@ -1632,7 +1632,7 @@ SUMMARY:vs Coventry Blaze
 UID:221
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Manchester Storm @ Guildford Spectr
  um on 13/03/2027 18:00
 DTEND;TZID=Europe/London:20270313T203000
@@ -1645,7 +1645,7 @@ SUMMARY:@ Guildford Flames
 UID:233
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Coventry Blaze vs Manchester Storm @ Coventry SkyDome o
  n 14/03/2027 17:30
 DTEND;TZID=Europe/London:20270314T200000
@@ -1658,7 +1658,7 @@ SUMMARY:@ Coventry Blaze
 UID:236
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Manchester Storm @ Motorpoint Ar
  ena Nottingham on 19/03/2027 19:30
 DTEND;TZID=Europe/London:20270319T220000
@@ -1671,7 +1671,7 @@ SUMMARY:@ Nottingham Panthers
 UID:240
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Fife Flyers @ AO Arena\, Manchester
   on 24/03/2027 19:30
 DTEND;TZID=Europe/London:20270324T220000
@@ -1684,7 +1684,7 @@ SUMMARY:vs Fife Flyers
 UID:249
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Sheffield Steelers vs Manchester Storm @ Utilita Arena\
  , Sheffield on 27/03/2027 19:00
 DTEND;TZID=Europe/London:20270327T213000
@@ -1697,7 +1697,7 @@ SUMMARY:@ Sheffield Steelers
 UID:253
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Sheffield Steelers @ AO Arena\, Man
  chester on 28/03/2027 16:00
 DTEND;TZID=Europe/London:20270328T183000
@@ -1710,7 +1710,7 @@ SUMMARY:vs Sheffield Steelers
 UID:256
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Guildford Flames @ AO Arena\, Manch
  ester on 03/04/2027 19:00
 DTEND;TZID=Europe/London:20270403T213000
@@ -1723,7 +1723,7 @@ SUMMARY:vs Guildford Flames
 UID:262
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Nottingham Panthers @ AO Arena\, Ma
  nchester on 04/04/2027 18:00
 DTEND;TZID=Europe/London:20270404T203000

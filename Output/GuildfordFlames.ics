@@ -930,7 +930,7 @@ SUMMARY:@ Nottingham Panthers
 UID:CC18
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Sheffield Steelers @ Guildford Spec
  trum on 23/09/2026 19:30
 DTEND;TZID=Europe/London:20260923T220000
@@ -956,7 +956,7 @@ SUMMARY:@ Manchester Storm
 UID:CC25
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Glasgow Clan @ Guildford Spectrum o
  n 03/10/2026 18:00
 DTEND;TZID=Europe/London:20261003T203000
@@ -982,7 +982,7 @@ SUMMARY:vs Nottingham Panthers
 UID:CC30
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Fife Flyers vs Guildford Flames @ Fife Ice Arena on 10/
  10/2026 19:00
 DTEND;TZID=Europe/London:20261010T213000
@@ -995,7 +995,7 @@ SUMMARY:@ Fife Flyers
 UID:17
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Guildford Flames @ Braehead Arena on 11
  /10/2026 16:00
 DTEND;TZID=Europe/London:20261011T183000
@@ -1060,7 +1060,7 @@ SUMMARY:@ Coventry Blaze
 UID:CC45
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Dundee Stars @ Guildford Spectrum o
  n 28/10/2026 19:30
 DTEND;TZID=Europe/London:20261028T220000
@@ -1073,7 +1073,7 @@ SUMMARY:vs Dundee Stars
 UID:30
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Guildford Flames @ Vindico Arena on 3
  1/10/2026 19:00
 DTEND;TZID=Europe/London:20261031T213000
@@ -1086,7 +1086,7 @@ SUMMARY:@ Cardiff Devils
 UID:33
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Glasgow Clan @ Guildford Spectrum o
  n 01/11/2026 18:00
 DTEND;TZID=Europe/London:20261101T203000
@@ -1099,7 +1099,7 @@ SUMMARY:vs Glasgow Clan
 UID:35
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Guildford Flames @ SSE Arena\, Belfas
  t on 07/11/2026 19:00
 DTEND;TZID=Europe/London:20261107T213000
@@ -1112,7 +1112,7 @@ SUMMARY:@ Belfast Giants
 UID:39
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Guildford Flames @ SSE Arena\, Belfas
  t on 08/11/2026 17:00
 DTEND;TZID=Europe/London:20261108T193000
@@ -1125,7 +1125,7 @@ SUMMARY:@ Belfast Giants
 UID:41
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Sheffield Steelers @ Guildford Spec
  trum on 14/11/2026 18:00
 DTEND;TZID=Europe/London:20261114T203000
@@ -1138,7 +1138,7 @@ SUMMARY:vs Sheffield Steelers
 UID:48
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Guildford Flames @ Motorpoint Ar
  ena Nottingham on 15/11/2026 15:00
 DTEND;TZID=Europe/London:20261115T173000
@@ -1151,7 +1151,7 @@ SUMMARY:@ Nottingham Panthers
 UID:52
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Nottingham Panthers @ Guildford Spe
  ctrum on 18/11/2026 19:30
 DTEND;TZID=Europe/London:20261118T220000
@@ -1164,7 +1164,7 @@ SUMMARY:vs Nottingham Panthers
 UID:54
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Guildford Flames @ Braehead Arena on 20
  /11/2026 19:30
 DTEND;TZID=Europe/London:20261120T220000
@@ -1177,7 +1177,7 @@ SUMMARY:@ Glasgow Clan
 UID:57
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Coventry Blaze @ Guildford Spectrum
   on 22/11/2026 18:00
 DTEND;TZID=Europe/London:20261122T203000
@@ -1190,7 +1190,7 @@ SUMMARY:vs Coventry Blaze
 UID:64
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Belfast Giants @ Guildford Spectrum
   on 28/11/2026 18:00
 DTEND;TZID=Europe/London:20261128T203000
@@ -1203,7 +1203,7 @@ SUMMARY:vs Belfast Giants
 UID:69
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Guildford Flames @ Motorpoint Ar
  ena Nottingham on 29/11/2026 16:00
 DTEND;TZID=Europe/London:20261129T183000
@@ -1216,7 +1216,7 @@ SUMMARY:@ Nottingham Panthers
 UID:75
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Manchester Storm @ Guildford Spectr
  um on 05/12/2026 18:00
 DTEND;TZID=Europe/London:20261205T203000
@@ -1229,7 +1229,7 @@ SUMMARY:vs Manchester Storm
 UID:81
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Sheffield Steelers @ Guildford Spec
  trum on 06/12/2026 18:00
 DTEND;TZID=Europe/London:20261206T203000
@@ -1242,7 +1242,7 @@ SUMMARY:vs Sheffield Steelers
 UID:85
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Coventry Blaze vs Guildford Flames @ Coventry SkyDome o
  n 12/12/2026 19:00
 DTEND;TZID=Europe/London:20261212T213000
@@ -1255,7 +1255,7 @@ SUMMARY:@ Coventry Blaze
 UID:91
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Dundee Stars vs Guildford Flames @ Dundee Ice Arena on 
  13/12/2026 17:00
 DTEND;TZID=Europe/London:20261213T193000
@@ -1268,7 +1268,7 @@ SUMMARY:@ Dundee Stars
 UID:92
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Fife Flyers vs Guildford Flames @ Fife Ice Arena on 19/
  12/2026 19:00
 DTEND;TZID=Europe/London:20261219T213000
@@ -1281,7 +1281,7 @@ SUMMARY:@ Fife Flyers
 UID:102
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Nottingham Panthers @ Guildford Spe
  ctrum on 20/12/2026 18:00
 DTEND;TZID=Europe/London:20261220T203000
@@ -1294,7 +1294,7 @@ SUMMARY:vs Nottingham Panthers
 UID:104
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Guildford Flames @ AO Arena\, Manch
  ester on 26/12/2026 19:00
 DTEND;TZID=Europe/London:20261226T213000
@@ -1307,7 +1307,7 @@ SUMMARY:@ Manchester Storm
 UID:112
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Manchester Storm @ Guildford Spectr
  um on 27/12/2026 18:00
 DTEND;TZID=Europe/London:20261227T203000
@@ -1320,7 +1320,7 @@ SUMMARY:vs Manchester Storm
 UID:117
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Cardiff Devils @ Guildford Spectrum
   on 30/12/2026 19:30
 DTEND;TZID=Europe/London:20261230T220000
@@ -1333,7 +1333,7 @@ SUMMARY:vs Cardiff Devils
 UID:123
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Guildford Flames @ Vindico Arena on 0
  1/01/2027 16:00
 DTEND;TZID=Europe/London:20270101T183000
@@ -1346,7 +1346,7 @@ SUMMARY:@ Cardiff Devils
 UID:130
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Fife Flyers @ Guildford Spectrum on
   03/01/2027 18:00
 DTEND;TZID=Europe/London:20270103T203000
@@ -1359,7 +1359,7 @@ SUMMARY:vs Fife Flyers
 UID:135
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Sheffield Steelers vs Guildford Flames @ Utilita Arena\
  , Sheffield on 09/01/2027 19:00
 DTEND;TZID=Europe/London:20270109T213000
@@ -1372,7 +1372,7 @@ SUMMARY:@ Sheffield Steelers
 UID:140
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Dundee Stars @ Guildford Spectrum o
  n 10/01/2027 18:00
 DTEND;TZID=Europe/London:20270110T203000
@@ -1385,7 +1385,7 @@ SUMMARY:vs Dundee Stars
 UID:146
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Coventry Blaze @ Guildford Spectrum
   on 16/01/2027 18:00
 DTEND;TZID=Europe/London:20270116T203000
@@ -1398,7 +1398,7 @@ SUMMARY:vs Coventry Blaze
 UID:151
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Coventry Blaze vs Guildford Flames @ Coventry SkyDome o
  n 17/01/2027 17:30
 DTEND;TZID=Europe/London:20270117T200000
@@ -1411,7 +1411,7 @@ SUMMARY:@ Coventry Blaze
 UID:155
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Guildford Flames @ Motorpoint Ar
  ena Nottingham on 23/01/2027 19:00
 DTEND;TZID=Europe/London:20270123T213000
@@ -1424,7 +1424,7 @@ SUMMARY:@ Nottingham Panthers
 UID:160
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Fife Flyers @ Guildford Spectrum on
   24/01/2027 18:00
 DTEND;TZID=Europe/London:20270124T203000
@@ -1437,7 +1437,7 @@ SUMMARY:vs Fife Flyers
 UID:165
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Guildford Flames @ Vindico Arena on 3
  0/01/2027 19:00
 DTEND;TZID=Europe/London:20270130T213000
@@ -1450,7 +1450,7 @@ SUMMARY:@ Cardiff Devils
 UID:170
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Sheffield Steelers vs Guildford Flames @ Utilita Arena\
  , Sheffield on 31/01/2027 16:00
 DTEND;TZID=Europe/London:20270131T183000
@@ -1463,7 +1463,7 @@ SUMMARY:@ Sheffield Steelers
 UID:171
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Dundee Stars vs Guildford Flames @ Dundee Ice Arena on 
  05/02/2027 19:30
 DTEND;TZID=Europe/London:20270205T220000
@@ -1476,7 +1476,7 @@ SUMMARY:@ Dundee Stars
 UID:178
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Cardiff Devils @ Guildford Spectrum
   on 07/02/2027 18:00
 DTEND;TZID=Europe/London:20270207T203000
@@ -1489,7 +1489,7 @@ SUMMARY:vs Cardiff Devils
 UID:184
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Glasgow Clan @ Guildford Spectrum o
  n 14/02/2027 18:00
 DTEND;TZID=Europe/London:20270214T203000
@@ -1502,7 +1502,7 @@ SUMMARY:vs Glasgow Clan
 UID:193
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Belfast Giants @ Guildford Spectrum
   on 17/02/2027 19:30
 DTEND;TZID=Europe/London:20270217T220000
@@ -1515,7 +1515,7 @@ SUMMARY:vs Belfast Giants
 UID:195
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Guildford Flames @ AO Arena\, Manch
  ester on 19/02/2027 19:30
 DTEND;TZID=Europe/London:20270219T220000
@@ -1528,7 +1528,7 @@ SUMMARY:@ Manchester Storm
 UID:198
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Dundee Stars @ Guildford Spectrum o
  n 21/02/2027 18:00
 DTEND;TZID=Europe/London:20270221T203000
@@ -1541,7 +1541,7 @@ SUMMARY:vs Dundee Stars
 UID:205
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Guildford Flames @ Braehead Arena on 24
  /02/2027 19:30
 DTEND;TZID=Europe/London:20270224T220000
@@ -1554,7 +1554,7 @@ SUMMARY:@ Glasgow Clan
 UID:206
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Coventry Blaze @ Guildford Spectrum
   on 27/02/2027 18:00
 DTEND;TZID=Europe/London:20270227T203000
@@ -1567,7 +1567,7 @@ SUMMARY:vs Coventry Blaze
 UID:212
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Dundee Stars vs Guildford Flames @ Dundee Ice Arena on 
  28/02/2027 17:00
 DTEND;TZID=Europe/London:20270228T193000
@@ -1580,7 +1580,7 @@ SUMMARY:@ Dundee Stars
 UID:216
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Fife Flyers vs Guildford Flames @ Fife Ice Arena on 06/
  03/2027 19:00
 DTEND;TZID=Europe/London:20270306T213000
@@ -1593,7 +1593,7 @@ SUMMARY:@ Fife Flyers
 UID:224
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Coventry Blaze vs Guildford Flames @ Coventry SkyDome o
  n 07/03/2027 17:30
 DTEND;TZID=Europe/London:20270307T200000
@@ -1606,7 +1606,7 @@ SUMMARY:@ Coventry Blaze
 UID:227
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Manchester Storm @ Guildford Spectr
  um on 13/03/2027 18:00
 DTEND;TZID=Europe/London:20270313T203000
@@ -1619,7 +1619,7 @@ SUMMARY:vs Manchester Storm
 UID:233
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Sheffield Steelers vs Guildford Flames @ Utilita Arena\
  , Sheffield on 14/03/2027 16:00
 DTEND;TZID=Europe/London:20270314T183000
@@ -1632,7 +1632,7 @@ SUMMARY:@ Sheffield Steelers
 UID:235
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Nottingham Panthers @ Guildford Spe
  ctrum on 20/03/2027 18:00
 DTEND;TZID=Europe/London:20270320T203000
@@ -1645,7 +1645,7 @@ SUMMARY:vs Nottingham Panthers
 UID:243
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Fife Flyers @ Guildford Spectrum on
   21/03/2027 18:00
 DTEND;TZID=Europe/London:20270321T203000
@@ -1658,7 +1658,7 @@ SUMMARY:vs Fife Flyers
 UID:246
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Guildford Flames @ SSE Arena\, Belfas
  t on 24/03/2027 19:00
 DTEND;TZID=Europe/London:20270324T213000
@@ -1671,7 +1671,7 @@ SUMMARY:@ Belfast Giants
 UID:248
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Belfast Giants @ Guildford Spectrum
   on 28/03/2027 18:00
 DTEND;TZID=Europe/London:20270328T203000
@@ -1684,7 +1684,7 @@ SUMMARY:vs Belfast Giants
 UID:258
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Guildford Flames @ AO Arena\, Manch
  ester on 03/04/2027 19:00
 DTEND;TZID=Europe/London:20270403T213000
@@ -1697,7 +1697,7 @@ SUMMARY:@ Manchester Storm
 UID:262
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Cardiff Devils @ Guildford Spectrum
   on 04/04/2027 18:00
 DTEND;TZID=Europe/London:20270404T203000

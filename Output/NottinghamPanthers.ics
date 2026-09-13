@@ -995,7 +995,7 @@ SUMMARY:@ Cardiff Devils
 UID:CC19
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Manchester Storm @ Motorpoint Ar
  ena Nottingham on 26/09/2026 19:00
 DTEND;TZID=Europe/London:20260926T213000
@@ -1034,7 +1034,7 @@ SUMMARY:@ Guildford Flames
 UID:CC30
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Fife Flyers @ Motorpoint Arena N
  ottingham on 11/10/2026 16:00
 DTEND;TZID=Europe/London:20261011T183000
@@ -1073,7 +1073,7 @@ SUMMARY:@ Coventry Blaze
 UID:CC39
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Dundee Stars vs Nottingham Panthers @ Dundee Ice Arena 
  on 24/10/2026 19:00
 DTEND;TZID=Europe/London:20261024T213000
@@ -1099,7 +1099,7 @@ SUMMARY:vs Cardiff Devils
 UID:CC46
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Belfast Giants @ Motorpoint Aren
  a Nottingham on 30/10/2026 19:30
 DTEND;TZID=Europe/London:20261030T220000
@@ -1112,7 +1112,7 @@ SUMMARY:vs Belfast Giants
 UID:31
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Sheffield Steelers vs Nottingham Panthers @ Utilita Are
  na\, Sheffield on 31/10/2026 19:00
 DTEND;TZID=Europe/London:20261031T213000
@@ -1125,7 +1125,7 @@ SUMMARY:@ Sheffield Steelers
 UID:32
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Coventry Blaze vs Nottingham Panthers @ Coventry SkyDom
  e on 07/11/2026 19:00
 DTEND;TZID=Europe/London:20261107T213000
@@ -1138,7 +1138,7 @@ SUMMARY:@ Coventry Blaze
 UID:40
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Coventry Blaze @ Motorpoint Aren
  a Nottingham on 08/11/2026 16:00
 DTEND;TZID=Europe/London:20261108T183000
@@ -1151,7 +1151,7 @@ SUMMARY:vs Coventry Blaze
 UID:42
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Nottingham Panthers @ Vindico Arena o
  n 13/11/2026 19:00
 DTEND;TZID=Europe/London:20261113T213000
@@ -1164,7 +1164,7 @@ SUMMARY:@ Cardiff Devils
 UID:47
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Guildford Flames @ Motorpoint Ar
  ena Nottingham on 15/11/2026 15:00
 DTEND;TZID=Europe/London:20261115T173000
@@ -1177,7 +1177,7 @@ SUMMARY:vs Guildford Flames
 UID:52
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Nottingham Panthers @ Guildford Spe
  ctrum on 18/11/2026 19:30
 DTEND;TZID=Europe/London:20261118T220000
@@ -1190,7 +1190,7 @@ SUMMARY:@ Guildford Flames
 UID:54
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Nottingham Panthers @ SSE Arena\, Bel
  fast on 21/11/2026 19:00
 DTEND;TZID=Europe/London:20261121T213000
@@ -1203,7 +1203,7 @@ SUMMARY:@ Belfast Giants
 UID:58
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Nottingham Panthers @ SSE Arena\, Bel
  fast on 22/11/2026 17:00
 DTEND;TZID=Europe/London:20261122T193000
@@ -1216,7 +1216,7 @@ SUMMARY:@ Belfast Giants
 UID:61
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Dundee Stars @ Motorpoint Arena 
  Nottingham on 27/11/2026 19:30
 DTEND;TZID=Europe/London:20261127T220000
@@ -1229,7 +1229,7 @@ SUMMARY:vs Dundee Stars
 UID:66
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Guildford Flames @ Motorpoint Ar
  ena Nottingham on 29/11/2026 16:00
 DTEND;TZID=Europe/London:20261129T183000
@@ -1242,7 +1242,7 @@ SUMMARY:vs Guildford Flames
 UID:75
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Glasgow Clan @ Motorpoint Arena 
  Nottingham on 05/12/2026 19:00
 DTEND;TZID=Europe/London:20261205T213000
@@ -1255,7 +1255,7 @@ SUMMARY:vs Glasgow Clan
 UID:77
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Nottingham Panthers @ AO Arena\, Ma
  nchester on 06/12/2026 16:00
 DTEND;TZID=Europe/London:20261206T183000
@@ -1268,7 +1268,7 @@ SUMMARY:@ Manchester Storm
 UID:82
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Fife Flyers vs Nottingham Panthers @ Fife Ice Arena on 
  12/12/2026 19:00
 DTEND;TZID=Europe/London:20261212T213000
@@ -1281,7 +1281,7 @@ SUMMARY:@ Fife Flyers
 UID:89
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Manchester Storm @ Motorpoint Ar
  ena Nottingham on 13/12/2026 16:00
 DTEND;TZID=Europe/London:20261213T183000
@@ -1294,7 +1294,7 @@ SUMMARY:vs Manchester Storm
 UID:94
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Dundee Stars @ Motorpoint Arena 
  Nottingham on 19/12/2026 19:00
 DTEND;TZID=Europe/London:20261219T213000
@@ -1307,7 +1307,7 @@ SUMMARY:vs Dundee Stars
 UID:100
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Nottingham Panthers @ Guildford Spe
  ctrum on 20/12/2026 18:00
 DTEND;TZID=Europe/London:20261220T203000
@@ -1320,7 +1320,7 @@ SUMMARY:@ Guildford Flames
 UID:104
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Nottingham Panthers @ Braehead Arena on
   22/12/2026 19:30
 DTEND;TZID=Europe/London:20261222T220000
@@ -1333,7 +1333,7 @@ SUMMARY:@ Glasgow Clan
 UID:108
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Sheffield Steelers vs Nottingham Panthers @ Utilita Are
  na\, Sheffield on 26/12/2026 16:00
 DTEND;TZID=Europe/London:20261226T183000
@@ -1346,7 +1346,7 @@ SUMMARY:@ Sheffield Steelers
 UID:111
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Sheffield Steelers @ Motorpoint 
  Arena Nottingham on 27/12/2026 16:00
 DTEND;TZID=Europe/London:20261227T183000
@@ -1359,7 +1359,7 @@ SUMMARY:vs Sheffield Steelers
 UID:116
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Coventry Blaze @ Motorpoint Aren
  a Nottingham on 31/12/2026 16:00
 DTEND;TZID=Europe/London:20261231T183000
@@ -1372,7 +1372,7 @@ SUMMARY:vs Coventry Blaze
 UID:127
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Coventry Blaze vs Nottingham Panthers @ Coventry SkyDom
  e on 01/01/2027 18:00
 DTEND;TZID=Europe/London:20270101T203000
@@ -1385,7 +1385,7 @@ SUMMARY:@ Coventry Blaze
 UID:129
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Cardiff Devils @ Motorpoint Aren
  a Nottingham on 03/01/2027 17:00
 DTEND;TZID=Europe/London:20270103T193000
@@ -1398,7 +1398,7 @@ SUMMARY:vs Cardiff Devils
 UID:133
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Nottingham Panthers @ Vindico Arena o
  n 09/01/2027 19:00
 DTEND;TZID=Europe/London:20270109T213000
@@ -1411,7 +1411,7 @@ SUMMARY:@ Cardiff Devils
 UID:139
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Glasgow Clan @ Motorpoint Arena 
  Nottingham on 10/01/2027 16:00
 DTEND;TZID=Europe/London:20270110T183000
@@ -1424,7 +1424,7 @@ SUMMARY:vs Glasgow Clan
 UID:143
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Glasgow Clan @ Motorpoint Arena 
  Nottingham on 16/01/2027 19:00
 DTEND;TZID=Europe/London:20270116T213000
@@ -1437,7 +1437,7 @@ SUMMARY:vs Glasgow Clan
 UID:148
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Nottingham Panthers @ AO Arena\, Ma
  nchester on 17/01/2027 16:00
 DTEND;TZID=Europe/London:20270117T183000
@@ -1450,7 +1450,7 @@ SUMMARY:@ Manchester Storm
 UID:152
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Guildford Flames @ Motorpoint Ar
  ena Nottingham on 23/01/2027 19:00
 DTEND;TZID=Europe/London:20270123T213000
@@ -1463,7 +1463,7 @@ SUMMARY:vs Guildford Flames
 UID:160
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Dundee Stars vs Nottingham Panthers @ Dundee Ice Arena 
  on 24/01/2027 17:00
 DTEND;TZID=Europe/London:20270124T193000
@@ -1476,7 +1476,7 @@ SUMMARY:@ Dundee Stars
 UID:164
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Sheffield Steelers @ Motorpoint 
  Arena Nottingham on 30/01/2027 19:00
 DTEND;TZID=Europe/London:20270130T213000
@@ -1489,7 +1489,7 @@ SUMMARY:vs Sheffield Steelers
 UID:169
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Fife Flyers vs Nottingham Panthers @ Fife Ice Arena on 
  31/01/2027 17:00
 DTEND;TZID=Europe/London:20270131T193000
@@ -1502,7 +1502,7 @@ SUMMARY:@ Fife Flyers
 UID:173
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Nottingham Panthers @ Braehead Arena on
   05/02/2027 19:30
 DTEND;TZID=Europe/London:20270205T220000
@@ -1515,7 +1515,7 @@ SUMMARY:@ Glasgow Clan
 UID:177
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Fife Flyers @ Motorpoint Arena N
  ottingham on 06/02/2027 19:00
 DTEND;TZID=Europe/London:20270206T213000
@@ -1528,7 +1528,7 @@ SUMMARY:vs Fife Flyers
 UID:181
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Belfast Giants @ Motorpoint Aren
  a Nottingham on 13/02/2027 19:00
 DTEND;TZID=Europe/London:20270213T213000
@@ -1541,7 +1541,7 @@ SUMMARY:vs Belfast Giants
 UID:187
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Belfast Giants @ Motorpoint Aren
  a Nottingham on 14/02/2027 16:00
 DTEND;TZID=Europe/London:20270214T183000
@@ -1554,7 +1554,7 @@ SUMMARY:vs Belfast Giants
 UID:190
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Cardiff Devils @ Motorpoint Aren
  a Nottingham on 20/02/2027 19:00
 DTEND;TZID=Europe/London:20270220T213000
@@ -1567,7 +1567,7 @@ SUMMARY:vs Cardiff Devils
 UID:200
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Coventry Blaze vs Nottingham Panthers @ Coventry SkyDom
  e on 21/02/2027 17:30
 DTEND;TZID=Europe/London:20270221T200000
@@ -1580,7 +1580,7 @@ SUMMARY:@ Coventry Blaze
 UID:204
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Sheffield Steelers vs Nottingham Panthers @ Utilita Are
  na\, Sheffield on 27/02/2027 19:00
 DTEND;TZID=Europe/London:20270227T213000
@@ -1593,7 +1593,7 @@ SUMMARY:@ Sheffield Steelers
 UID:211
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Fife Flyers @ Motorpoint Arena N
  ottingham on 28/02/2027 16:00
 DTEND;TZID=Europe/London:20270228T183000
@@ -1606,7 +1606,7 @@ SUMMARY:vs Fife Flyers
 UID:214
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Coventry Blaze @ Motorpoint Aren
  a Nottingham on 03/03/2027 19:30
 DTEND;TZID=Europe/London:20270303T220000
@@ -1619,7 +1619,7 @@ SUMMARY:vs Coventry Blaze
 UID:217
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Nottingham Panthers @ SSE Arena\, Bel
  fast on 05/03/2027 19:00
 DTEND;TZID=Europe/London:20270305T213000
@@ -1632,7 +1632,7 @@ SUMMARY:@ Belfast Giants
 UID:218
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Cardiff Devils @ Motorpoint Aren
  a Nottingham on 07/03/2027 16:00
 DTEND;TZID=Europe/London:20270307T183000
@@ -1645,7 +1645,7 @@ SUMMARY:vs Cardiff Devils
 UID:226
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Sheffield Steelers @ Motorpoint 
  Arena Nottingham on 13/03/2027 19:00
 DTEND;TZID=Europe/London:20270313T213000
@@ -1658,7 +1658,7 @@ SUMMARY:vs Sheffield Steelers
 UID:231
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Dundee Stars @ Motorpoint Arena 
  Nottingham on 17/03/2027 19:30
 DTEND;TZID=Europe/London:20270317T220000
@@ -1671,7 +1671,7 @@ SUMMARY:vs Dundee Stars
 UID:238
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Manchester Storm @ Motorpoint Ar
  ena Nottingham on 19/03/2027 19:30
 DTEND;TZID=Europe/London:20270319T220000
@@ -1684,7 +1684,7 @@ SUMMARY:vs Manchester Storm
 UID:240
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Nottingham Panthers @ Guildford Spe
  ctrum on 20/03/2027 18:00
 DTEND;TZID=Europe/London:20270320T203000
@@ -1697,7 +1697,7 @@ SUMMARY:@ Guildford Flames
 UID:243
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Nottingham Panthers @ Braehead Arena on
   26/03/2027 19:30
 DTEND;TZID=Europe/London:20270326T220000
@@ -1710,7 +1710,7 @@ SUMMARY:@ Glasgow Clan
 UID:250
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Fife Flyers vs Nottingham Panthers @ Fife Ice Arena on 
  27/03/2027 19:00
 DTEND;TZID=Europe/London:20270327T213000
@@ -1723,7 +1723,7 @@ SUMMARY:@ Fife Flyers
 UID:254
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Dundee Stars vs Nottingham Panthers @ Dundee Ice Arena 
  on 28/03/2027 17:00
 DTEND;TZID=Europe/London:20270328T193000
@@ -1736,7 +1736,7 @@ SUMMARY:@ Dundee Stars
 UID:255
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Nottingham Panthers @ Vindico Arena o
  n 03/04/2027 19:00
 DTEND;TZID=Europe/London:20270403T213000
@@ -1749,7 +1749,7 @@ SUMMARY:@ Cardiff Devils
 UID:263
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Nottingham Panthers @ AO Arena\, Ma
  nchester on 04/04/2027 18:00
 DTEND;TZID=Europe/London:20270404T203000

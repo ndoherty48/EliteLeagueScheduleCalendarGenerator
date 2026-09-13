@@ -982,7 +982,7 @@ SUMMARY:@ Sheffield Steelers
 UID:CC22
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Manchester Storm @ Vindico Arena on 0
  3/10/2026 19:00
 DTEND;TZID=Europe/London:20261003T213000
@@ -995,7 +995,7 @@ SUMMARY:vs Manchester Storm
 UID:7
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Glasgow Clan @ Vindico Arena on 04/10
  /2026 17:00
 DTEND;TZID=Europe/London:20261004T193000
@@ -1008,7 +1008,7 @@ SUMMARY:vs Glasgow Clan
 UID:12
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Dundee Stars @ Vindico Arena on 10/10
  /2026 19:00
 DTEND;TZID=Europe/London:20261010T213000
@@ -1021,7 +1021,7 @@ SUMMARY:vs Dundee Stars
 UID:16
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Belfast Giants @ Vindico Arena on 11/
  10/2026 17:00
 DTEND;TZID=Europe/London:20261011T193000
@@ -1047,7 +1047,7 @@ SUMMARY:vs Coventry Blaze
 UID:CC35
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Dundee Stars vs Cardiff Devils @ Dundee Ice Arena on 18
  /10/2026 17:00
 DTEND;TZID=Europe/London:20261018T193000
@@ -1086,7 +1086,7 @@ SUMMARY:@ Nottingham Panthers
 UID:CC46
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Belfast Giants @ Vindico Arena on 28/
  10/2026 19:00
 DTEND;TZID=Europe/London:20261028T213000
@@ -1099,7 +1099,7 @@ SUMMARY:vs Belfast Giants
 UID:29
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Guildford Flames @ Vindico Arena on 3
  1/10/2026 19:00
 DTEND;TZID=Europe/London:20261031T213000
@@ -1125,7 +1125,7 @@ SUMMARY:@ Manchester Storm
 UID:CC52
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Dundee Stars @ Vindico Arena on 06/11
  /2026 19:00
 DTEND;TZID=Europe/London:20261106T213000
@@ -1138,7 +1138,7 @@ SUMMARY:vs Dundee Stars
 UID:37
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Fife Flyers vs Cardiff Devils @ Fife Ice Arena on 08/11
  /2026 17:00
 DTEND;TZID=Europe/London:20261108T193000
@@ -1151,7 +1151,7 @@ SUMMARY:@ Fife Flyers
 UID:43
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Nottingham Panthers @ Vindico Arena o
  n 13/11/2026 19:00
 DTEND;TZID=Europe/London:20261113T213000
@@ -1164,7 +1164,7 @@ SUMMARY:vs Nottingham Panthers
 UID:47
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Coventry Blaze vs Cardiff Devils @ Coventry SkyDome on 
  14/11/2026 19:00
 DTEND;TZID=Europe/London:20261114T213000
@@ -1177,7 +1177,7 @@ SUMMARY:@ Coventry Blaze
 UID:49
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Manchester Storm @ Vindico Arena on 2
  0/11/2026 19:00
 DTEND;TZID=Europe/London:20261120T213000
@@ -1190,7 +1190,7 @@ SUMMARY:vs Manchester Storm
 UID:56
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Sheffield Steelers vs Cardiff Devils @ Utilita Arena\, 
  Sheffield on 22/11/2026 16:00
 DTEND;TZID=Europe/London:20261122T183000
@@ -1203,7 +1203,7 @@ SUMMARY:@ Sheffield Steelers
 UID:62
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Glasgow Clan @ Vindico Arena on 28/11
  /2026 19:00
 DTEND;TZID=Europe/London:20261128T213000
@@ -1216,7 +1216,7 @@ SUMMARY:vs Glasgow Clan
 UID:68
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Cardiff Devils @ AO Arena\, Manches
  ter on 29/11/2026 16:00
 DTEND;TZID=Europe/London:20261129T183000
@@ -1229,7 +1229,7 @@ SUMMARY:@ Manchester Storm
 UID:73
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Coventry Blaze @ Vindico Arena on 05/
  12/2026 19:00
 DTEND;TZID=Europe/London:20261205T213000
@@ -1242,7 +1242,7 @@ SUMMARY:vs Coventry Blaze
 UID:80
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Fife Flyers @ Vindico Arena on 06/12/
  2026 17:00
 DTEND;TZID=Europe/London:20261206T193000
@@ -1255,7 +1255,7 @@ SUMMARY:vs Fife Flyers
 UID:84
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Cardiff Devils @ SSE Arena\, Belfast 
  on 11/12/2026 19:00
 DTEND;TZID=Europe/London:20261211T213000
@@ -1268,7 +1268,7 @@ SUMMARY:@ Belfast Giants
 UID:88
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Cardiff Devils @ Braehead Arena on 13/1
  2/2026 16:00
 DTEND;TZID=Europe/London:20261213T183000
@@ -1281,7 +1281,7 @@ SUMMARY:@ Glasgow Clan
 UID:96
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Sheffield Steelers @ Vindico Arena on
   18/12/2026 19:00
 DTEND;TZID=Europe/London:20261218T213000
@@ -1294,7 +1294,7 @@ SUMMARY:vs Sheffield Steelers
 UID:99
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Dundee Stars vs Cardiff Devils @ Dundee Ice Arena on 20
  /12/2026 17:00
 DTEND;TZID=Europe/London:20261220T193000
@@ -1307,7 +1307,7 @@ SUMMARY:@ Dundee Stars
 UID:106
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Dundee Stars @ Vindico Arena on 23/12
  /2026 18:00
 DTEND;TZID=Europe/London:20261223T203000
@@ -1320,7 +1320,7 @@ SUMMARY:vs Dundee Stars
 UID:109
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Coventry Blaze vs Cardiff Devils @ Coventry SkyDome on 
  26/12/2026 18:00
 DTEND;TZID=Europe/London:20261226T203000
@@ -1333,7 +1333,7 @@ SUMMARY:@ Coventry Blaze
 UID:114
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Coventry Blaze @ Vindico Arena on 27/
  12/2026 17:00
 DTEND;TZID=Europe/London:20261227T193000
@@ -1346,7 +1346,7 @@ SUMMARY:vs Coventry Blaze
 UID:118
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Cardiff Devils @ Guildford Spectrum
   on 30/12/2026 19:30
 DTEND;TZID=Europe/London:20261230T220000
@@ -1359,7 +1359,7 @@ SUMMARY:@ Guildford Flames
 UID:123
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Guildford Flames @ Vindico Arena on 0
  1/01/2027 16:00
 DTEND;TZID=Europe/London:20270101T183000
@@ -1372,7 +1372,7 @@ SUMMARY:vs Guildford Flames
 UID:130
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Cardiff Devils @ Motorpoint Aren
  a Nottingham on 03/01/2027 17:00
 DTEND;TZID=Europe/London:20270103T193000
@@ -1385,7 +1385,7 @@ SUMMARY:@ Nottingham Panthers
 UID:133
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Nottingham Panthers @ Vindico Arena o
  n 09/01/2027 19:00
 DTEND;TZID=Europe/London:20270109T213000
@@ -1398,7 +1398,7 @@ SUMMARY:vs Nottingham Panthers
 UID:139
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Coventry Blaze vs Cardiff Devils @ Coventry SkyDome on 
  10/01/2027 17:30
 DTEND;TZID=Europe/London:20270110T200000
@@ -1411,7 +1411,7 @@ SUMMARY:@ Coventry Blaze
 UID:144
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Cardiff Devils @ Braehead Arena on 15/0
  1/2027 19:30
 DTEND;TZID=Europe/London:20270115T220000
@@ -1424,7 +1424,7 @@ SUMMARY:@ Glasgow Clan
 UID:147
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Fife Flyers vs Cardiff Devils @ Fife Ice Arena on 16/01
  /2027 19:00
 DTEND;TZID=Europe/London:20270116T213000
@@ -1437,7 +1437,7 @@ SUMMARY:@ Fife Flyers
 UID:150
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Dundee Stars vs Cardiff Devils @ Dundee Ice Arena on 17
  /01/2027 17:00
 DTEND;TZID=Europe/London:20270117T193000
@@ -1450,7 +1450,7 @@ SUMMARY:@ Dundee Stars
 UID:154
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Glasgow Clan @ Vindico Arena on 23/01
  /2027 19:00
 DTEND;TZID=Europe/London:20270123T213000
@@ -1463,7 +1463,7 @@ SUMMARY:vs Glasgow Clan
 UID:162
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Cardiff Devils @ AO Arena\, Manches
  ter on 24/01/2027 16:00
 DTEND;TZID=Europe/London:20270124T183000
@@ -1476,7 +1476,7 @@ SUMMARY:@ Manchester Storm
 UID:163
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Guildford Flames @ Vindico Arena on 3
  0/01/2027 19:00
 DTEND;TZID=Europe/London:20270130T213000
@@ -1489,7 +1489,7 @@ SUMMARY:vs Guildford Flames
 UID:170
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Belfast Giants @ Vindico Arena on 31/
  01/2027 17:00
 DTEND;TZID=Europe/London:20270131T193000
@@ -1502,7 +1502,7 @@ SUMMARY:vs Belfast Giants
 UID:172
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Sheffield Steelers @ Vindico Arena on
   06/02/2027 19:00
 DTEND;TZID=Europe/London:20270206T213000
@@ -1515,7 +1515,7 @@ SUMMARY:vs Sheffield Steelers
 UID:180
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Cardiff Devils @ Guildford Spectrum
   on 07/02/2027 18:00
 DTEND;TZID=Europe/London:20270207T203000
@@ -1528,7 +1528,7 @@ SUMMARY:@ Guildford Flames
 UID:184
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Fife Flyers @ Vindico Arena on 13/02/
  2027 19:00
 DTEND;TZID=Europe/London:20270213T213000
@@ -1541,7 +1541,7 @@ SUMMARY:vs Fife Flyers
 UID:189
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Manchester Storm vs Cardiff Devils @ AO Arena\, Manches
  ter on 14/02/2027 16:00
 DTEND;TZID=Europe/London:20270214T183000
@@ -1554,7 +1554,7 @@ SUMMARY:@ Manchester Storm
 UID:191
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Cardiff Devils @ Motorpoint Aren
  a Nottingham on 20/02/2027 19:00
 DTEND;TZID=Europe/London:20270220T213000
@@ -1567,7 +1567,7 @@ SUMMARY:@ Nottingham Panthers
 UID:200
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Manchester Storm @ Vindico Arena on 2
  1/02/2027 17:00
 DTEND;TZID=Europe/London:20270221T193000
@@ -1580,7 +1580,7 @@ SUMMARY:vs Manchester Storm
 UID:203
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Cardiff Devils @ SSE Arena\, Belfast 
  on 27/02/2027 19:00
 DTEND;TZID=Europe/London:20270227T213000
@@ -1593,7 +1593,7 @@ SUMMARY:@ Belfast Giants
 UID:208
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Belfast Giants vs Cardiff Devils @ SSE Arena\, Belfast 
  on 28/02/2027 17:00
 DTEND;TZID=Europe/London:20270228T193000
@@ -1606,7 +1606,7 @@ SUMMARY:@ Belfast Giants
 UID:213
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Sheffield Steelers @ Vindico Arena on
   06/03/2027 19:00
 DTEND;TZID=Europe/London:20270306T213000
@@ -1619,7 +1619,7 @@ SUMMARY:vs Sheffield Steelers
 UID:223
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Cardiff Devils @ Motorpoint Aren
  a Nottingham on 07/03/2027 16:00
 DTEND;TZID=Europe/London:20270307T183000
@@ -1632,7 +1632,7 @@ SUMMARY:@ Nottingham Panthers
 UID:226
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Fife Flyers @ Vindico Arena on 12/03/
  2027 19:00
 DTEND;TZID=Europe/London:20270312T213000
@@ -1645,7 +1645,7 @@ SUMMARY:vs Fife Flyers
 UID:229
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Fife Flyers vs Cardiff Devils @ Fife Ice Arena on 13/03
  /2027 19:00
 DTEND;TZID=Europe/London:20270313T213000
@@ -1658,7 +1658,7 @@ SUMMARY:@ Fife Flyers
 UID:234
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Sheffield Steelers vs Cardiff Devils @ Utilita Arena\, 
  Sheffield on 20/03/2027 19:00
 DTEND;TZID=Europe/London:20270320T213000
@@ -1671,7 +1671,7 @@ SUMMARY:@ Sheffield Steelers
 UID:242
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Sheffield Steelers vs Cardiff Devils @ Utilita Arena\, 
  Sheffield on 21/03/2027 16:00
 DTEND;TZID=Europe/London:20270321T183000
@@ -1684,7 +1684,7 @@ SUMMARY:@ Sheffield Steelers
 UID:245
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Coventry Blaze @ Vindico Arena on 26/
  03/2027 19:00
 DTEND;TZID=Europe/London:20270326T213000
@@ -1697,7 +1697,7 @@ SUMMARY:vs Coventry Blaze
 UID:252
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Glasgow Clan vs Cardiff Devils @ Braehead Arena on 28/0
  3/2027 16:00
 DTEND;TZID=Europe/London:20270328T183000
@@ -1710,7 +1710,7 @@ SUMMARY:@ Glasgow Clan
 UID:259
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Cardiff Devils vs Nottingham Panthers @ Vindico Arena o
  n 03/04/2027 19:00
 DTEND;TZID=Europe/London:20270403T213000
@@ -1723,7 +1723,7 @@ SUMMARY:vs Nottingham Panthers
 UID:263
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Elite Ice Hockey League 2026/2027,League
+CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Guildford Flames vs Cardiff Devils @ Guildford Spectrum
   on 04/04/2027 18:00
 DTEND;TZID=Europe/London:20270404T203000
