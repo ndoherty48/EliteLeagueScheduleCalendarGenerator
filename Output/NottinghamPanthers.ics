@@ -1021,6 +1021,19 @@ SUMMARY:@ Guildford Flames
 UID:CC30
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Challenge Cup 2026/2027,Cup
+DESCRIPTION:Cup: Manchester Storm vs Nottingham Panthers @ AO Arena\, Manch
+ ester on 10/10/2026 19:30
+DTEND;TZID=Europe/London:20261010T220000
+DTSTAMP;TZID=Europe/London:20261010T193000
+DTSTART;TZID=Europe/London:20261010T193000
+GEO:0.000000;0.000000
+LOCATION:AO Arena\, Manchester
+SEQUENCE:0
+SUMMARY:@ Manchester Storm
+UID:CC6
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Motorpoint Elite League 2026/2027,League
 DESCRIPTION:League: Nottingham Panthers vs Fife Flyers @ Motorpoint Arena N
  ottingham on 11/10/2026 16:00
@@ -1747,18 +1760,5 @@ LOCATION:AO Arena\, Manchester
 SEQUENCE:0
 SUMMARY:@ Manchester Storm
 UID:267
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Challenge Cup 2026/2027,Cup
-DESCRIPTION:Cup: Manchester Storm vs Nottingham Panthers @ AO Arena\, Manch
- ester on 05/04/2027 19:30
-DTEND;TZID=Europe/London:20270405T220000
-DTSTAMP;TZID=Europe/London:20270405T193000
-DTSTART;TZID=Europe/London:20270405T193000
-GEO:0.000000;0.000000
-LOCATION:AO Arena\, Manchester
-SEQUENCE:0
-SUMMARY:@ Manchester Storm
-UID:CC6
 END:VEVENT
 END:VCALENDAR
